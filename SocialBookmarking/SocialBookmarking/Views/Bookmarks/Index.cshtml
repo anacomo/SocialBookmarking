@@ -1,0 +1,232 @@
+﻿@if (ViewBag.message != null)
+{
+    <div class="alert alert-dismissible alert-success">
+        <button type="button" class="close" data-dismiss="alert">&times;</button>
+        <strong>@ViewBag.message</strong>
+    </div>
+}
+
+<br />
+<ol class="breadcrumb">
+    <li class="breadcrumb-item"><a href="/">Home</a></li>
+    <li class="breadcrumb-item active">Bookmarks</li>
+</ol>
+
+<div class="jumbotron bg-light">
+    <h1 class="display-4">Bookmarks</h1>
+    <p class="lead">Aici puteti vizualiza bookmark-urile adaugate de utilizatori.</p>
+    <form method="get" class="form-inline">
+        <label>Sortare dupa </label>
+        <select class="form-control col-md-4" name="sort" value="@ViewBag.Sort">
+            <option>Cele mai recente</option>
+            <option>Popularitate</option>
+        </select>
+        @Html.Hidden("search", (string)ViewBag.SearchString)
+        <button class="btn btn-primary my-2 my-sm-0" type="submit">Selecteaza</button>
+    </form>
+
+    <hr class="my-4">
+    <p>Cauti un bookmark anume?</p>
+    <form class="form-inline my-2 my-lg-0" method="GET">
+        <input class="form-control col-md-10" type="text" name="search" value="@ViewBag.SearchString" placeholder="Search topics or keywords">
+        @Html.Hidden("sort", (string)ViewBag.Sort)
+        <button class="btn btn-secondary my-2 my-sm-0" type="submit">Search</button>
+    </form>
+    <hr />
+
+    @* pagination*@
+    <div>
+        <nav aria-label="Page navigation">
+            <ul class="pagination">
+                <li class="page-item">
+                    @if (ViewBag.SearchString != "" && ViewBag.Sort != "")
+                    {
+                        <a href="/Bookmarks/Index?page=1&search=@ViewBag.SearchString&sort=@ViewBag.Sort" aria-label="Previous" class="page-link">
+                            <span aria-hidden="true">&laquo;</span>
+                        </a>
+                    }
+                    else if (ViewBag.SearchString != "" && ViewBag.Sort == "")
+                    {
+                        <a href="/Bookmarks/Index?page=1&search=@ViewBag.SearchString" aria-label="Previous" class="page-link">
+                            <span aria-hidden="true">&laquo;</span>
+                        </a>
+                    }
+                    else if (ViewBag.SearchString == "" && ViewBag.Sort != "")
+                    {
+                        <a href="/Bookmarks/Index?page=1&sort=@ViewBag.Sort" aria-label="Previous" class="page-link">
+                            <span aria-hidden="true">&laquo;</span>
+                        </a>
+                    }
+                    else
+                    {
+                        <a href="/Bookmarks/Index?page=1" aria-label="Previous" class="page-link">
+                            <span aria-hidden="true">&laquo;</span>
+                        </a>
+                    }
+                </li>
+                @for (int i = 1; i <= ViewBag.lastPage; i++)
+                {
+                    if (ViewBag.SearchString != "" && ViewBag.Sort != "")
+                    {
+                        <li class="page-item">
+                            <a class="page-link" href="/Bookmarks/Index?page=@i&search=@ViewBag.SearchString&sort=@ViewBag.Sort">@(i)</a>
+                        </li>
+                    }
+                    else if (ViewBag.SearchString != "" && ViewBag.Sort == "")
+                    {
+                        <li class="page-item">
+                            <a class="page-link" href="/Bookmarks/Index?page=@i&search=@ViewBag.SearchString">@(i)</a>
+                        </li>
+                    }
+                    else if (ViewBag.SearchString == "" && ViewBag.Sort != "")
+                    {
+                        <li class="page-item">
+                            <a class="page-link" href="/Bookmarks/Index?page=@i&sort=@ViewBag.Sort">@(i)</a>
+                        </li>
+                    }
+                    else
+                    {
+                        <li class="page-item"><a class="page-link" href="/Bookmarks/Index?page=@i">@(i)</a></li>
+                    }
+                }
+                <li class="page-item">
+                    @if (ViewBag.SearchString != "" && ViewBag.Sort != "")
+                    {
+                        <a class="page-link" href="/Bookmarks/Index?page=@(ViewBag.lastPage)&search=@ViewBag.SearchString&sort=@ViewBag.Sort" arialabel="Next">
+                            <span aria-hidden="true">&raquo;</span>
+                        </a>
+                    }
+                    else if (ViewBag.SearchString != "" && ViewBag.Sort == "")
+                    {
+                        <a class="page-link" href="/Bookmarks/Index?page=@(ViewBag.lastPage)&search=@ViewBag.SearchString" arialabel="Next">
+                            <span aria-hidden="true">&raquo;</span>
+                        </a>
+                    }
+                    else if (ViewBag.SearchString == "" && ViewBag.Sort != "")
+                    {
+                        <a class="page-link" href="/Bookmarks/Index?page=@(ViewBag.lastPage)&sort=@ViewBag.Sort" arialabel="Next">
+                            <span aria-hidden="true">&raquo;</span>
+                        </a>
+                    }
+                    else
+                    {
+                        <a class="page-link" href="/Bookmarks/Index?page=@(ViewBag.lastPage)" arialabel="Next">
+                            <span aria-hidden="true">&raquo;</span>
+                        </a>
+                    }
+                </li>
+            </ul>
+        </nav>
+    </div>
+
+    @* bookmarks*@
+    @foreach (var bookmark in ViewBag.Bookmarks)
+    {
+        <div class="card bg-secondary mb-3" style="max-width: 65rem;">
+            <h3 class="card-header">@bookmark.BookmarkTitle</h3>
+            <div class="card-body">
+                <i>Adaugat de</i> <strong> @bookmark.User.UserName </strong> <i>la data de</i>
+                <span class="label label-success">@bookmark.BookmarkDate</span>
+                <hr />
+                <span class="badge badge-pill badge-info">@bookmark.BookmarkTags</span>
+                <p class="card-text">Continut bookmark: <strong>@bookmark.BookmarkDesc</strong></p>
+                <hr />
+                <span class="label label-success">@bookmark.BookmarkPopularity voturi</span>
+                <br /> <i>Categorie: </i> @bookmark.Category.CategoryName
+                <div class="modal-footer">
+                    <a class="btn btn-info" href="/Bookmarks/Show/@bookmark.BookmarkId">
+                        Afisare bookmark
+                    </a>
+                </div>
+            </div>
+        </div>
+    }
+    @* pagination*@
+    <div>
+        <nav aria-label="Page navigation">
+            <ul class="pagination">
+                <li class="page-item">
+                    @if (ViewBag.SearchString != "" && ViewBag.Sort != "")
+                    {
+                        <a href="/Bookmarks/Index?page=1&search=@ViewBag.SearchString&sort=@ViewBag.Sort" aria-label="Previous" class="page-link">
+                            <span aria-hidden="true">&laquo;</span>
+                        </a>
+                    }
+                    else if (ViewBag.SearchString != "" && ViewBag.Sort == "")
+                    {
+                        <a href="/Bookmarks/Index?page=1&search=@ViewBag.SearchString" aria-label="Previous" class="page-link">
+                            <span aria-hidden="true">&laquo;</span>
+                        </a>
+                    }
+                    else if (ViewBag.SearchString == "" && ViewBag.Sort != "")
+                    {
+                        <a href="/Bookmarks/Index?page=1&sort=@ViewBag.Sort" aria-label="Previous" class="page-link">
+                            <span aria-hidden="true">&laquo;</span>
+                        </a>
+                    }
+                    else
+                    {
+                        <a href="/Bookmarks/Index?page=1" aria-label="Previous" class="page-link">
+                            <span aria-hidden="true">&laquo;</span>
+                        </a>
+                    }
+                </li>
+                @for (int i = 1; i <= ViewBag.lastPage; i++)
+                {
+                    if (ViewBag.SearchString != "" && ViewBag.Sort != "")
+                    {
+                        <li class="page-item">
+                            <a class="page-link" href="/Bookmarks/Index?page=@i&search=@ViewBag.SearchString&sort=@ViewBag.Sort">@(i)</a>
+                        </li>
+                    }
+                    else if (ViewBag.SearchString != "" && ViewBag.Sort == "")
+                    {
+                        <li class="page-item">
+                            <a class="page-link" href="/Bookmarks/Index?page=@i&search=@ViewBag.SearchString">@(i)</a>
+                        </li>
+                    }
+                    else if (ViewBag.SearchString == "" && ViewBag.Sort != "")
+                    {
+                        <li class="page-item">
+                            <a class="page-link" href="/Bookmarks/Index?page=@i&sort=@ViewBag.Sort">@(i)</a>
+                        </li>
+                    }
+                    else
+                    {
+                        <li class="page-item"><a class="page-link" href="/Bookmarks/Index?page=@i">@(i)</a></li>
+                    }
+                }
+                <li class="page-item">
+                    @if (ViewBag.SearchString != "" && ViewBag.Sort != "")
+                    {
+                        <a class="page-link" href="/Bookmarks/Index?page=@(ViewBag.lastPage)&search=@ViewBag.SearchString&sort=@ViewBag.Sort" arialabel="Next">
+                            <span aria-hidden="true">&raquo;</span>
+                        </a>
+                    }
+                    else if (ViewBag.SearchString != "" && ViewBag.Sort == "")
+                    {
+                        <a class="page-link" href="/Bookmarks/Index?page=@(ViewBag.lastPage)&search=@ViewBag.SearchString" arialabel="Next">
+                            <span aria-hidden="true">&raquo;</span>
+                        </a>
+                    }
+                    else if (ViewBag.SearchString == "" && ViewBag.Sort != "")
+                    {
+                        <a class="page-link" href="/Bookmarks/Index?page=@(ViewBag.lastPage)&sort=@ViewBag.Sort" arialabel="Next">
+                            <span aria-hidden="true">&raquo;</span>
+                        </a>
+                    }
+                    else
+                    {
+                        <a class="page-link" href="/Bookmarks/Index?page=@(ViewBag.lastPage)" arialabel="Next">
+                            <span aria-hidden="true">&raquo;</span>
+                        </a>
+                    }
+                </li>
+            </ul>
+        </nav>
+    </div>
+
+</div>
+
+
+

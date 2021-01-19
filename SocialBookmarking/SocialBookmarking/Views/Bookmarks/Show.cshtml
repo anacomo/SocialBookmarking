@@ -1,0 +1,150 @@
+﻿@model SocialBookmarking.Models.Bookmark
+
+@{
+    ViewBag.Title = "Afisare Bookmarks";
+}
+
+@if (ViewBag.message != null)
+{
+    <div class="alert alert-dismissible alert-success">
+        <button type="button" class="close" data-dismiss="alert">&times;</button>
+        <strong>@ViewBag.message</strong>
+    </div>
+}
+
+<br />
+<ol class="breadcrumb">
+    <li class="breadcrumb-item"><a href="/">Home</a></li>
+    <li class="breadcrumb-item"><a href="/Bookmarks/Index">Bookmarks</a></li>
+    <li class="breadcrumb-item active">Item</li>
+</ol>
+
+<div class="card border-primary mb-3" style="max-width: 65rem;">
+    <h3 class="card-header">@Model.BookmarkTitle</h3>
+    <div class="card-body">
+        <i>Adaugat de</i> <strong> @Model.User.UserName </strong> <i>la data de</i>
+        <span class="label label-success">@Model.BookmarkDate</span>
+        <hr />
+        <span class="badge badge-pill badge-info">@Model.BookmarkTags</span>
+        <p class="card-text">Continut bookmark: <strong>@Model.BookmarkDesc</strong></p>
+        <hr />
+        <span class="label label-success">@Model.BookmarkPopularity voturi</span>
+        <br /> <i>Categorie: </i> @Model.Category.CategoryName
+
+        <div class="modal-footer">
+            @if (ViewBag.afisareButoane == true)
+            {
+                if (ViewBag.voted == false)
+                {
+                    <form method="post" action="/Votes/New">
+                        <input type="hidden" name="BookmarkId" value="@Model.BookmarkId" />
+                        <button type="submit"style="all:unset; cursor:pointer; display: flex; align-items: center; justify-content: space-between; width: 4rem; margin-left: 0.25rem; padding: 10px;">
+                        <i class="far fa-thumbs-up fa-2x text-success"></i>
+                        <text>Like</text>
+                        </button>
+                    </form>
+                }
+                else
+                {
+                    <form method="post" action="/Votes/Delete/@Model.BookmarkId">
+                        @Html.HttpMethodOverride(HttpVerbs.Delete)
+                        @Html.Hidden("bId", Model.BookmarkId)
+                        <button type="submit" style="all:unset; cursor:pointer; display: flex; align-items: center; justify-content: space-between; width: 4.5rem; margin-left: 0.25rem; padding: 10px;">
+                        <i class="far fa-thumbs-down fa-2x text-danger"></i>Dislike</button>
+                    </form>
+                }
+                if (ViewBag.saved == true)
+                {
+                    <form method="post" action="/Saves/Delete/@Model.BookmarkId">
+                        @Html.HttpMethodOverride(HttpVerbs.Delete)
+                        @Html.Hidden("bId", Model.BookmarkId)
+                        <button type="submit" style="all:unset; cursor:pointer; display: flex; align-items: center; justify-content: space-between; width: 5rem; margin-left: 0.25rem; padding: 10px;">
+                            <i class="fas fa-bookmark fa-2x text-danger"></i>Unsave
+                        </button>
+                    </form>
+                }
+                else
+                {
+                    <form method="post" action="/Saves/New">
+                        <input type="hidden" name="BookmarkID" value="@Model.BookmarkId" />
+                        <button type="submit" style="all:unset; cursor:pointer; display: flex; align-items: center; justify-content: space-between; width: 4rem; margin-left: 0.25rem; padding: 10px;">
+                            <i class="far fa-bookmark fa-2x text-success"></i>Save
+                        </button>
+                    </form>
+                }
+
+                if (Model.UserId == ViewBag.utilizatorCurent || ViewBag.esteAdmin)
+                {
+                    <a type="submit" style="all:unset; cursor:pointer; display: flex; align-items: center; justify-content: space-between; width: 5rem; margin-left: 0.25rem; padding: 10px;" href="/Bookmarks/Edit/@Model.BookmarkId">
+                    <i class="far fa-edit fa-2x text-warning"></i>Editeaza</a>
+                    <form method="post" action="/Bookmarks/Delete/@Model.BookmarkId">
+                        @Html.HttpMethodOverride(HttpVerbs.Delete)
+                        <button type="submit" style="all:unset; cursor:pointer; display: flex; align-items: center; justify-content: space-between; width: 5rem; margin-left: 0.25rem; padding: 10px;">
+                        <i class="far fa-trash-alt fa-2x text-danger"></i>Sterge</button>
+                    </form>
+                }
+            }
+        </div>
+        <hr />
+
+        @foreach (var comm in Model.Comments)
+        {
+            <div class="container">
+                <div class="row">
+                    <div class="col-md-2"></div>
+                    <div class="col-md-8">
+                        <div>
+                            <p>@comm.CommentContent</p>
+                            <small class="pull-right">@comm.CommentDate</small>
+                            <i class="glyphicon glyphicon-user"></i> <i>scris de</i> <strong> @comm.User.UserName </strong>
+                        </div>
+                        @if (comm.UserId == ViewBag.utilizatorCurent || ViewBag.esteAdmin)
+                        {
+                            <div style="display: inline-block; float : right">
+                                <form method="post" action="/Comments/Delete/@comm.CommentId">
+                                    @Html.HttpMethodOverride(HttpVerbs.Delete)
+                                    <button type="submit" style="all:unset; cursor:pointer;">
+                                        <i class="far fa-trash-alt fa-2x text-danger"></i>
+                                    </button>
+                                </form>
+                            </div>
+                            <div style="display: inline-block; float : right; margin-right: 15px">
+                                
+                                <a type="submit" style="all:unset; cursor:pointer;" href="/Comments/Edit/@comm.CommentId">
+                                    <i class="far fa-edit fa-2x text-warning"></i>
+                                </a>
+                            </div>
+                        }
+
+                    </div>
+                </div>
+                <div class="col-md-2"></div>
+            </div>
+            <hr />
+        }
+
+        <div class="container">
+            <div class="row">
+                <div class="col-md-2">
+                </div>
+                <div class="col-md-8">
+                    <div class="panel">
+                        <form method="post" action="/Bookmarks/Show">
+                            <div class="panel-body">
+                                <input type="hidden" name="BookmarkId" value="@Model.BookmarkId" />
+                                <label>Continut comentariu</label>
+                                <br />
+                                <textarea class="form-control" name="CommentContent"></textarea>
+                                @Html.ValidationMessage("CommentContent", "", new { @class = "text-danger" })
+                                <br />
+                                <button class="btn btn-success " type="submit">Adauga comentariu</button>
+                            </div>
+                        </form>
+                    </div>
+                </div>
+                <div class="col-md-2"></div>
+            </div>
+        </div>
+
+    </div>
+</div>

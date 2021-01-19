@@ -1,0 +1,29 @@
+﻿@model SocialBookmarking.Models.Category
+
+@{
+    ViewBag.Title = "Afisare categorie";
+}
+
+<br />
+<ol class="breadcrumb">
+    <li class="breadcrumb-item"><a href="/">Home</a></li>
+    <li class="breadcrumb-item"><a href="/Bookmarks/Index">Bookmarks</a></li>
+    <li class="breadcrumb-item"><a href="/Categories/Index">Categorii</a></li>
+    <li class="breadcrumb-item active">Vizualizare Categorie</li>
+</ol>
+
+<div class="card bg-secondary mb-3 text-center" style="max-width: 70rem;">
+    <h3 class="card-header">@ViewBag.Title</h3>
+    <div class="card-body">
+        <h4 class="card-title">@Model.CategoryName</h4>
+        <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+        <form method="post" action="/Categories/Delete/@Model.CategoryId">
+        @Html.HttpMethodOverride(HttpVerbs.Delete)
+        <div class="modal-footer">
+            <button class="btn btn-primary" type="submit">Sterge categoria</button>
+        </div>
+</form>
+    </div>
+</div>
+
+

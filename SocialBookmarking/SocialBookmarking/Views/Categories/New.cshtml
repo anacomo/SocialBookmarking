@@ -1,0 +1,26 @@
+﻿@{
+    ViewBag.Title = "Adauga o noua Categorie";
+}
+
+<br />
+<ol class="breadcrumb">
+    <li class="breadcrumb-item"><a href="/">Home</a></li>
+    <li class="breadcrumb-item"><a href="/Bookmarks/Index">Bookmarks</a></li>
+    <li class="breadcrumb-item"><a href="/Categories/Index">Categorii</a></li>
+    <li class="breadcrumb-item active">Categorie Noua</li>
+</ol>
+
+<div class="jumbotron bg-light">
+    <h1 class="display-4">@ViewBag.Title</h1>
+    <p class="lead">In spatiul de mai jos, puteti adauga o categorie noua.</p>
+    <hr class="my-4">
+    <form method="post" action="/Categories/New">
+        @Html.Label("CategoryName", "Nume Categorie", new { @class = "col-form-label" })
+        <br />
+        @Html.TextBox("CategoryName", null, new { @class = "form-control" })
+        <br /><br />
+        <div class="modal-footer">
+            <button class="btn btn-primary" type="submit">Adauga categorie</button>
+        </div>  
+    </form>
+</div>

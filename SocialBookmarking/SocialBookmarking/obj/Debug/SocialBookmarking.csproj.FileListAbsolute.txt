@@ -1,0 +1,856 @@
+C:\Users\Laura\source\repos\Lab8\SocialBookmarking\SocialBookmarking\bin\SocialBookmarking.dll.config
+C:\Users\Laura\source\repos\Lab8\SocialBookmarking\SocialBookmarking\bin\SocialBookmarking.dll
+C:\Users\Laura\source\repos\Lab8\SocialBookmarking\SocialBookmarking\bin\SocialBookmarking.pdb
+C:\Users\Laura\source\repos\Lab8\SocialBookmarking\SocialBookmarking\bin\roslyn\csc.exe
+C:\Users\Laura\source\repos\Lab8\SocialBookmarking\SocialBookmarking\bin\roslyn\csc.exe.config
+C:\Users\Laura\source\repos\Lab8\SocialBookmarking\SocialBookmarking\bin\roslyn\csc.rsp
+C:\Users\Laura\source\repos\Lab8\SocialBookmarking\SocialBookmarking\bin\roslyn\csi.exe
+C:\Users\Laura\source\repos\Lab8\SocialBookmarking\SocialBookmarking\bin\roslyn\csi.exe.config
+C:\Users\Laura\source\repos\Lab8\SocialBookmarking\SocialBookmarking\bin\roslyn\csi.rsp
+C:\Users\Laura\source\repos\Lab8\SocialBookmarking\SocialBookmarking\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Laura\source\repos\Lab8\SocialBookmarking\SocialBookmarking\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Laura\source\repos\Lab8\SocialBookmarking\SocialBookmarking\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Laura\source\repos\Lab8\SocialBookmarking\SocialBookmarking\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Laura\source\repos\Lab8\SocialBookmarking\SocialBookmarking\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Laura\source\repos\Lab8\SocialBookmarking\SocialBookmarking\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Laura\source\repos\Lab8\SocialBookmarking\SocialBookmarking\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Laura\source\repos\Lab8\SocialBookmarking\SocialBookmarking\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Laura\source\repos\Lab8\SocialBookmarking\SocialBookmarking\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Laura\source\repos\Lab8\SocialBookmarking\SocialBookmarking\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Laura\source\repos\Lab8\SocialBookmarking\SocialBookmarking\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Laura\source\repos\Lab8\SocialBookmarking\SocialBookmarking\bin\roslyn\System.AppContext.dll
+C:\Users\Laura\source\repos\Lab8\SocialBookmarking\SocialBookmarking\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Laura\source\repos\Lab8\SocialBookmarking\SocialBookmarking\bin\roslyn\System.Console.dll
+C:\Users\Laura\source\repos\Lab8\SocialBookmarking\SocialBookmarking\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Laura\source\repos\Lab8\SocialBookmarking\SocialBookmarking\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Laura\source\repos\Lab8\SocialBookmarking\SocialBookmarking\bin\roslyn\System.IO.Compression.dll
+C:\Users\Laura\source\repos\Lab8\SocialBookmarking\SocialBookmarking\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Laura\source\repos\Lab8\SocialBookmarking\SocialBookmarking\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Laura\source\repos\Lab8\SocialBookmarking\SocialBookmarking\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Laura\source\repos\Lab8\SocialBookmarking\SocialBookmarking\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Laura\source\repos\Lab8\SocialBookmarking\SocialBookmarking\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Laura\source\repos\Lab8\SocialBookmarking\SocialBookmarking\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Laura\source\repos\Lab8\SocialBookmarking\SocialBookmarking\bin\roslyn\System.Security.Claims.dll
+C:\Users\Laura\source\repos\Lab8\SocialBookmarking\SocialBookmarking\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Laura\source\repos\Lab8\SocialBookmarking\SocialBookmarking\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Laura\source\repos\Lab8\SocialBookmarking\SocialBookmarking\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Laura\source\repos\Lab8\SocialBookmarking\SocialBookmarking\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Laura\source\repos\Lab8\SocialBookmarking\SocialBookmarking\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Laura\source\repos\Lab8\SocialBookmarking\SocialBookmarking\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Laura\source\repos\Lab8\SocialBookmarking\SocialBookmarking\bin\roslyn\System.ValueTuple.dll
+C:\Users\Laura\source\repos\Lab8\SocialBookmarking\SocialBookmarking\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Laura\source\repos\Lab8\SocialBookmarking\SocialBookmarking\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Laura\source\repos\Lab8\SocialBookmarking\SocialBookmarking\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Laura\source\repos\Lab8\SocialBookmarking\SocialBookmarking\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Laura\source\repos\Lab8\SocialBookmarking\SocialBookmarking\bin\roslyn\vbc.exe
+C:\Users\Laura\source\repos\Lab8\SocialBookmarking\SocialBookmarking\bin\roslyn\vbc.exe.config
+C:\Users\Laura\source\repos\Lab8\SocialBookmarking\SocialBookmarking\bin\roslyn\vbc.rsp
+C:\Users\Laura\source\repos\Lab8\SocialBookmarking\SocialBookmarking\bin\roslyn\VBCSCompiler.exe
+C:\Users\Laura\source\repos\Lab8\SocialBookmarking\SocialBookmarking\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Laura\source\repos\Lab8\SocialBookmarking\SocialBookmarking\bin\Antlr3.Runtime.dll
+C:\Users\Laura\source\repos\Lab8\SocialBookmarking\SocialBookmarking\bin\EntityFramework.dll
+C:\Users\Laura\source\repos\Lab8\SocialBookmarking\SocialBookmarking\bin\EntityFramework.SqlServer.dll
+C:\Users\Laura\source\repos\Lab8\SocialBookmarking\SocialBookmarking\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Laura\source\repos\Lab8\SocialBookmarking\SocialBookmarking\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Laura\source\repos\Lab8\SocialBookmarking\SocialBookmarking\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Laura\source\repos\Lab8\SocialBookmarking\SocialBookmarking\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Laura\source\repos\Lab8\SocialBookmarking\SocialBookmarking\bin\Microsoft.Owin.dll
+C:\Users\Laura\source\repos\Lab8\SocialBookmarking\SocialBookmarking\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Laura\source\repos\Lab8\SocialBookmarking\SocialBookmarking\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Laura\source\repos\Lab8\SocialBookmarking\SocialBookmarking\bin\Microsoft.Owin.Security.dll
+C:\Users\Laura\source\repos\Lab8\SocialBookmarking\SocialBookmarking\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Laura\source\repos\Lab8\SocialBookmarking\SocialBookmarking\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Laura\source\repos\Lab8\SocialBookmarking\SocialBookmarking\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Laura\source\repos\Lab8\SocialBookmarking\SocialBookmarking\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Laura\source\repos\Lab8\SocialBookmarking\SocialBookmarking\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Laura\source\repos\Lab8\SocialBookmarking\SocialBookmarking\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Laura\source\repos\Lab8\SocialBookmarking\SocialBookmarking\bin\Newtonsoft.Json.dll
+C:\Users\Laura\source\repos\Lab8\SocialBookmarking\SocialBookmarking\bin\Owin.dll
+C:\Users\Laura\source\repos\Lab8\SocialBookmarking\SocialBookmarking\bin\System.Web.Helpers.dll
+C:\Users\Laura\source\repos\Lab8\SocialBookmarking\SocialBookmarking\bin\System.Web.Mvc.dll
+C:\Users\Laura\source\repos\Lab8\SocialBookmarking\SocialBookmarking\bin\System.Web.Optimization.dll
+C:\Users\Laura\source\repos\Lab8\SocialBookmarking\SocialBookmarking\bin\System.Web.Razor.dll
+C:\Users\Laura\source\repos\Lab8\SocialBookmarking\SocialBookmarking\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Laura\source\repos\Lab8\SocialBookmarking\SocialBookmarking\bin\System.Web.WebPages.dll
+C:\Users\Laura\source\repos\Lab8\SocialBookmarking\SocialBookmarking\bin\System.Web.WebPages.Razor.dll
+C:\Users\Laura\source\repos\Lab8\SocialBookmarking\SocialBookmarking\bin\WebGrease.dll
+C:\Users\Laura\source\repos\Lab8\SocialBookmarking\SocialBookmarking\bin\System.Web.Helpers.xml
+C:\Users\Laura\source\repos\Lab8\SocialBookmarking\SocialBookmarking\bin\System.Web.Mvc.xml
+C:\Users\Laura\source\repos\Lab8\SocialBookmarking\SocialBookmarking\bin\System.Web.Optimization.xml
+C:\Users\Laura\source\repos\Lab8\SocialBookmarking\SocialBookmarking\bin\System.Web.Razor.xml
+C:\Users\Laura\source\repos\Lab8\SocialBookmarking\SocialBookmarking\bin\System.Web.WebPages.xml
+C:\Users\Laura\source\repos\Lab8\SocialBookmarking\SocialBookmarking\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Laura\source\repos\Lab8\SocialBookmarking\SocialBookmarking\bin\System.Web.WebPages.Razor.xml
+C:\Users\Laura\source\repos\Lab8\SocialBookmarking\SocialBookmarking\bin\Newtonsoft.Json.xml
+C:\Users\Laura\source\repos\Lab8\SocialBookmarking\SocialBookmarking\bin\Antlr3.Runtime.pdb
+C:\Users\Laura\source\repos\Lab8\SocialBookmarking\SocialBookmarking\bin\EntityFramework.xml
+C:\Users\Laura\source\repos\Lab8\SocialBookmarking\SocialBookmarking\bin\EntityFramework.SqlServer.xml
+C:\Users\Laura\source\repos\Lab8\SocialBookmarking\SocialBookmarking\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Laura\source\repos\Lab8\SocialBookmarking\SocialBookmarking\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Laura\source\repos\Lab8\SocialBookmarking\SocialBookmarking\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Laura\source\repos\Lab8\SocialBookmarking\SocialBookmarking\bin\Microsoft.Owin.xml
+C:\Users\Laura\source\repos\Lab8\SocialBookmarking\SocialBookmarking\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Laura\source\repos\Lab8\SocialBookmarking\SocialBookmarking\bin\Microsoft.Owin.Security.xml
+C:\Users\Laura\source\repos\Lab8\SocialBookmarking\SocialBookmarking\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Laura\source\repos\Lab8\SocialBookmarking\SocialBookmarking\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Laura\source\repos\Lab8\SocialBookmarking\SocialBookmarking\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Laura\source\repos\Lab8\SocialBookmarking\SocialBookmarking\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Laura\source\repos\Lab8\SocialBookmarking\SocialBookmarking\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Laura\source\repos\Lab8\SocialBookmarking\SocialBookmarking\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Laura\source\repos\Lab8\SocialBookmarking\SocialBookmarking\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Laura\source\repos\Lab8\SocialBookmarking\SocialBookmarking\obj\Debug\SocialBookmarking.csprojAssemblyReference.cache
+C:\Users\Laura\source\repos\Lab8\SocialBookmarking\SocialBookmarking\obj\Debug\SocialBookmarking.csproj.CoreCompileInputs.cache
+C:\Users\Laura\source\repos\Lab8\SocialBookmarking\SocialBookmarking\obj\Debug\SocialBookmarking.csproj.CopyComplete
+C:\Users\Laura\source\repos\Lab8\SocialBookmarking\SocialBookmarking\obj\Debug\SocialBookmarking.dll
+C:\Users\Laura\source\repos\Lab8\SocialBookmarking\SocialBookmarking\obj\Debug\SocialBookmarking.pdb
+C:\Users\Laura\source\repos\Lab8\SocialBookmarking\SocialBookmarking\obj\Debug\SocialBookmarking.Migrations.Initial.resources
+C:\Users\Laura\source\repos\Lab8\SocialBookmarking\SocialBookmarking\obj\Debug\SocialBookmarking.csproj.GenerateResource.cache
+d:\Users\Comorasu\Desktop\SocialBookmarking\SocialBookmarking\bin\SocialBookmarking.dll.config
+d:\Users\Comorasu\Desktop\SocialBookmarking\SocialBookmarking\bin\SocialBookmarking.dll
+d:\Users\Comorasu\Desktop\SocialBookmarking\SocialBookmarking\bin\SocialBookmarking.pdb
+d:\Users\Comorasu\Desktop\SocialBookmarking\SocialBookmarking\bin\roslyn\csc.exe
+d:\Users\Comorasu\Desktop\SocialBookmarking\SocialBookmarking\bin\roslyn\csc.exe.config
+d:\Users\Comorasu\Desktop\SocialBookmarking\SocialBookmarking\bin\roslyn\csc.rsp
+d:\Users\Comorasu\Desktop\SocialBookmarking\SocialBookmarking\bin\roslyn\csi.exe
+d:\Users\Comorasu\Desktop\SocialBookmarking\SocialBookmarking\bin\roslyn\csi.exe.config
+d:\Users\Comorasu\Desktop\SocialBookmarking\SocialBookmarking\bin\roslyn\csi.rsp
+d:\Users\Comorasu\Desktop\SocialBookmarking\SocialBookmarking\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+d:\Users\Comorasu\Desktop\SocialBookmarking\SocialBookmarking\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+d:\Users\Comorasu\Desktop\SocialBookmarking\SocialBookmarking\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+d:\Users\Comorasu\Desktop\SocialBookmarking\SocialBookmarking\bin\roslyn\Microsoft.CodeAnalysis.dll
+d:\Users\Comorasu\Desktop\SocialBookmarking\SocialBookmarking\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+d:\Users\Comorasu\Desktop\SocialBookmarking\SocialBookmarking\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+d:\Users\Comorasu\Desktop\SocialBookmarking\SocialBookmarking\bin\roslyn\Microsoft.CSharp.Core.targets
+d:\Users\Comorasu\Desktop\SocialBookmarking\SocialBookmarking\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+d:\Users\Comorasu\Desktop\SocialBookmarking\SocialBookmarking\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+d:\Users\Comorasu\Desktop\SocialBookmarking\SocialBookmarking\bin\roslyn\Microsoft.Managed.Core.targets
+d:\Users\Comorasu\Desktop\SocialBookmarking\SocialBookmarking\bin\roslyn\Microsoft.VisualBasic.Core.targets
+d:\Users\Comorasu\Desktop\SocialBookmarking\SocialBookmarking\bin\roslyn\System.AppContext.dll
+d:\Users\Comorasu\Desktop\SocialBookmarking\SocialBookmarking\bin\roslyn\System.Collections.Immutable.dll
+d:\Users\Comorasu\Desktop\SocialBookmarking\SocialBookmarking\bin\roslyn\System.Console.dll
+d:\Users\Comorasu\Desktop\SocialBookmarking\SocialBookmarking\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+d:\Users\Comorasu\Desktop\SocialBookmarking\SocialBookmarking\bin\roslyn\System.Diagnostics.StackTrace.dll
+d:\Users\Comorasu\Desktop\SocialBookmarking\SocialBookmarking\bin\roslyn\System.IO.Compression.dll
+d:\Users\Comorasu\Desktop\SocialBookmarking\SocialBookmarking\bin\roslyn\System.IO.FileSystem.dll
+d:\Users\Comorasu\Desktop\SocialBookmarking\SocialBookmarking\bin\roslyn\System.IO.FileSystem.Primitives.dll
+d:\Users\Comorasu\Desktop\SocialBookmarking\SocialBookmarking\bin\roslyn\System.IO.Pipes.AccessControl.dll
+d:\Users\Comorasu\Desktop\SocialBookmarking\SocialBookmarking\bin\roslyn\System.IO.Pipes.dll
+d:\Users\Comorasu\Desktop\SocialBookmarking\SocialBookmarking\bin\roslyn\System.Reflection.Metadata.dll
+d:\Users\Comorasu\Desktop\SocialBookmarking\SocialBookmarking\bin\roslyn\System.Security.AccessControl.dll
+d:\Users\Comorasu\Desktop\SocialBookmarking\SocialBookmarking\bin\roslyn\System.Security.Claims.dll
+d:\Users\Comorasu\Desktop\SocialBookmarking\SocialBookmarking\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+d:\Users\Comorasu\Desktop\SocialBookmarking\SocialBookmarking\bin\roslyn\System.Security.Cryptography.Encoding.dll
+d:\Users\Comorasu\Desktop\SocialBookmarking\SocialBookmarking\bin\roslyn\System.Security.Cryptography.Primitives.dll
+d:\Users\Comorasu\Desktop\SocialBookmarking\SocialBookmarking\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+d:\Users\Comorasu\Desktop\SocialBookmarking\SocialBookmarking\bin\roslyn\System.Security.Principal.Windows.dll
+d:\Users\Comorasu\Desktop\SocialBookmarking\SocialBookmarking\bin\roslyn\System.Text.Encoding.CodePages.dll
+d:\Users\Comorasu\Desktop\SocialBookmarking\SocialBookmarking\bin\roslyn\System.ValueTuple.dll
+d:\Users\Comorasu\Desktop\SocialBookmarking\SocialBookmarking\bin\roslyn\System.Xml.ReaderWriter.dll
+d:\Users\Comorasu\Desktop\SocialBookmarking\SocialBookmarking\bin\roslyn\System.Xml.XmlDocument.dll
+d:\Users\Comorasu\Desktop\SocialBookmarking\SocialBookmarking\bin\roslyn\System.Xml.XPath.dll
+d:\Users\Comorasu\Desktop\SocialBookmarking\SocialBookmarking\bin\roslyn\System.Xml.XPath.XDocument.dll
+d:\Users\Comorasu\Desktop\SocialBookmarking\SocialBookmarking\bin\roslyn\vbc.exe
+d:\Users\Comorasu\Desktop\SocialBookmarking\SocialBookmarking\bin\roslyn\vbc.exe.config
+d:\Users\Comorasu\Desktop\SocialBookmarking\SocialBookmarking\bin\roslyn\vbc.rsp
+d:\Users\Comorasu\Desktop\SocialBookmarking\SocialBookmarking\bin\roslyn\VBCSCompiler.exe
+d:\Users\Comorasu\Desktop\SocialBookmarking\SocialBookmarking\bin\roslyn\VBCSCompiler.exe.config
+d:\Users\Comorasu\Desktop\SocialBookmarking\SocialBookmarking\bin\Antlr3.Runtime.dll
+d:\Users\Comorasu\Desktop\SocialBookmarking\SocialBookmarking\bin\EntityFramework.dll
+d:\Users\Comorasu\Desktop\SocialBookmarking\SocialBookmarking\bin\EntityFramework.SqlServer.dll
+d:\Users\Comorasu\Desktop\SocialBookmarking\SocialBookmarking\bin\Microsoft.AspNet.Identity.Core.dll
+d:\Users\Comorasu\Desktop\SocialBookmarking\SocialBookmarking\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+d:\Users\Comorasu\Desktop\SocialBookmarking\SocialBookmarking\bin\Microsoft.AspNet.Identity.Owin.dll
+d:\Users\Comorasu\Desktop\SocialBookmarking\SocialBookmarking\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+d:\Users\Comorasu\Desktop\SocialBookmarking\SocialBookmarking\bin\Microsoft.Owin.dll
+d:\Users\Comorasu\Desktop\SocialBookmarking\SocialBookmarking\bin\Microsoft.Owin.Host.SystemWeb.dll
+d:\Users\Comorasu\Desktop\SocialBookmarking\SocialBookmarking\bin\Microsoft.Owin.Security.Cookies.dll
+d:\Users\Comorasu\Desktop\SocialBookmarking\SocialBookmarking\bin\Microsoft.Owin.Security.dll
+d:\Users\Comorasu\Desktop\SocialBookmarking\SocialBookmarking\bin\Microsoft.Owin.Security.Facebook.dll
+d:\Users\Comorasu\Desktop\SocialBookmarking\SocialBookmarking\bin\Microsoft.Owin.Security.Google.dll
+d:\Users\Comorasu\Desktop\SocialBookmarking\SocialBookmarking\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+d:\Users\Comorasu\Desktop\SocialBookmarking\SocialBookmarking\bin\Microsoft.Owin.Security.OAuth.dll
+d:\Users\Comorasu\Desktop\SocialBookmarking\SocialBookmarking\bin\Microsoft.Owin.Security.Twitter.dll
+d:\Users\Comorasu\Desktop\SocialBookmarking\SocialBookmarking\bin\Microsoft.Web.Infrastructure.dll
+d:\Users\Comorasu\Desktop\SocialBookmarking\SocialBookmarking\bin\Newtonsoft.Json.dll
+d:\Users\Comorasu\Desktop\SocialBookmarking\SocialBookmarking\bin\Owin.dll
+d:\Users\Comorasu\Desktop\SocialBookmarking\SocialBookmarking\bin\System.Web.Helpers.dll
+d:\Users\Comorasu\Desktop\SocialBookmarking\SocialBookmarking\bin\System.Web.Mvc.dll
+d:\Users\Comorasu\Desktop\SocialBookmarking\SocialBookmarking\bin\System.Web.Optimization.dll
+d:\Users\Comorasu\Desktop\SocialBookmarking\SocialBookmarking\bin\System.Web.Razor.dll
+d:\Users\Comorasu\Desktop\SocialBookmarking\SocialBookmarking\bin\System.Web.WebPages.Deployment.dll
+d:\Users\Comorasu\Desktop\SocialBookmarking\SocialBookmarking\bin\System.Web.WebPages.dll
+d:\Users\Comorasu\Desktop\SocialBookmarking\SocialBookmarking\bin\System.Web.WebPages.Razor.dll
+d:\Users\Comorasu\Desktop\SocialBookmarking\SocialBookmarking\bin\WebGrease.dll
+d:\Users\Comorasu\Desktop\SocialBookmarking\SocialBookmarking\bin\System.Web.Helpers.xml
+d:\Users\Comorasu\Desktop\SocialBookmarking\SocialBookmarking\bin\System.Web.Mvc.xml
+d:\Users\Comorasu\Desktop\SocialBookmarking\SocialBookmarking\bin\System.Web.Optimization.xml
+d:\Users\Comorasu\Desktop\SocialBookmarking\SocialBookmarking\bin\System.Web.Razor.xml
+d:\Users\Comorasu\Desktop\SocialBookmarking\SocialBookmarking\bin\System.Web.WebPages.xml
+d:\Users\Comorasu\Desktop\SocialBookmarking\SocialBookmarking\bin\System.Web.WebPages.Deployment.xml
+d:\Users\Comorasu\Desktop\SocialBookmarking\SocialBookmarking\bin\System.Web.WebPages.Razor.xml
+d:\Users\Comorasu\Desktop\SocialBookmarking\SocialBookmarking\bin\Newtonsoft.Json.xml
+d:\Users\Comorasu\Desktop\SocialBookmarking\SocialBookmarking\bin\Antlr3.Runtime.pdb
+d:\Users\Comorasu\Desktop\SocialBookmarking\SocialBookmarking\bin\EntityFramework.xml
+d:\Users\Comorasu\Desktop\SocialBookmarking\SocialBookmarking\bin\EntityFramework.SqlServer.xml
+d:\Users\Comorasu\Desktop\SocialBookmarking\SocialBookmarking\bin\Microsoft.AspNet.Identity.Core.xml
+d:\Users\Comorasu\Desktop\SocialBookmarking\SocialBookmarking\bin\Microsoft.AspNet.Identity.Owin.xml
+d:\Users\Comorasu\Desktop\SocialBookmarking\SocialBookmarking\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+d:\Users\Comorasu\Desktop\SocialBookmarking\SocialBookmarking\bin\Microsoft.Owin.xml
+d:\Users\Comorasu\Desktop\SocialBookmarking\SocialBookmarking\bin\Microsoft.Owin.Host.SystemWeb.xml
+d:\Users\Comorasu\Desktop\SocialBookmarking\SocialBookmarking\bin\Microsoft.Owin.Security.xml
+d:\Users\Comorasu\Desktop\SocialBookmarking\SocialBookmarking\bin\Microsoft.Owin.Security.Facebook.xml
+d:\Users\Comorasu\Desktop\SocialBookmarking\SocialBookmarking\bin\Microsoft.Owin.Security.Cookies.xml
+d:\Users\Comorasu\Desktop\SocialBookmarking\SocialBookmarking\bin\Microsoft.Owin.Security.Google.xml
+d:\Users\Comorasu\Desktop\SocialBookmarking\SocialBookmarking\bin\Microsoft.Owin.Security.Twitter.xml
+d:\Users\Comorasu\Desktop\SocialBookmarking\SocialBookmarking\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+d:\Users\Comorasu\Desktop\SocialBookmarking\SocialBookmarking\bin\Microsoft.Owin.Security.OAuth.xml
+d:\Users\Comorasu\Desktop\SocialBookmarking\SocialBookmarking\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+d:\Users\Comorasu\Desktop\SocialBookmarking\SocialBookmarking\obj\Debug\SocialBookmarking.csprojAssemblyReference.cache
+d:\Users\Comorasu\Desktop\SocialBookmarking\SocialBookmarking\obj\Debug\SocialBookmarking.Migrations.Initial.resources
+d:\Users\Comorasu\Desktop\SocialBookmarking\SocialBookmarking\obj\Debug\SocialBookmarking.csproj.GenerateResource.cache
+d:\Users\Comorasu\Desktop\SocialBookmarking\SocialBookmarking\obj\Debug\SocialBookmarking.csproj.CoreCompileInputs.cache
+d:\Users\Comorasu\Desktop\SocialBookmarking\SocialBookmarking\obj\Debug\SocialBookmarking.csproj.CopyComplete
+d:\Users\Comorasu\Desktop\SocialBookmarking\SocialBookmarking\obj\Debug\SocialBookmarking.dll
+d:\Users\Comorasu\Desktop\SocialBookmarking\SocialBookmarking\obj\Debug\SocialBookmarking.pdb
+C:\Users\Laura\source\repos\Auth cu facebook\SocialBookmarking\SocialBookmarking\bin\SocialBookmarking.dll.config
+C:\Users\Laura\source\repos\Auth cu facebook\SocialBookmarking\SocialBookmarking\bin\SocialBookmarking.dll
+C:\Users\Laura\source\repos\Auth cu facebook\SocialBookmarking\SocialBookmarking\bin\SocialBookmarking.pdb
+C:\Users\Laura\source\repos\Auth cu facebook\SocialBookmarking\SocialBookmarking\bin\roslyn\csc.exe
+C:\Users\Laura\source\repos\Auth cu facebook\SocialBookmarking\SocialBookmarking\bin\roslyn\csc.exe.config
+C:\Users\Laura\source\repos\Auth cu facebook\SocialBookmarking\SocialBookmarking\bin\roslyn\csc.rsp
+C:\Users\Laura\source\repos\Auth cu facebook\SocialBookmarking\SocialBookmarking\bin\roslyn\csi.exe
+C:\Users\Laura\source\repos\Auth cu facebook\SocialBookmarking\SocialBookmarking\bin\roslyn\csi.exe.config
+C:\Users\Laura\source\repos\Auth cu facebook\SocialBookmarking\SocialBookmarking\bin\roslyn\csi.rsp
+C:\Users\Laura\source\repos\Auth cu facebook\SocialBookmarking\SocialBookmarking\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Laura\source\repos\Auth cu facebook\SocialBookmarking\SocialBookmarking\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Laura\source\repos\Auth cu facebook\SocialBookmarking\SocialBookmarking\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Laura\source\repos\Auth cu facebook\SocialBookmarking\SocialBookmarking\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Laura\source\repos\Auth cu facebook\SocialBookmarking\SocialBookmarking\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Laura\source\repos\Auth cu facebook\SocialBookmarking\SocialBookmarking\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Laura\source\repos\Auth cu facebook\SocialBookmarking\SocialBookmarking\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Laura\source\repos\Auth cu facebook\SocialBookmarking\SocialBookmarking\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Laura\source\repos\Auth cu facebook\SocialBookmarking\SocialBookmarking\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Laura\source\repos\Auth cu facebook\SocialBookmarking\SocialBookmarking\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Laura\source\repos\Auth cu facebook\SocialBookmarking\SocialBookmarking\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Laura\source\repos\Auth cu facebook\SocialBookmarking\SocialBookmarking\bin\roslyn\System.AppContext.dll
+C:\Users\Laura\source\repos\Auth cu facebook\SocialBookmarking\SocialBookmarking\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Laura\source\repos\Auth cu facebook\SocialBookmarking\SocialBookmarking\bin\roslyn\System.Console.dll
+C:\Users\Laura\source\repos\Auth cu facebook\SocialBookmarking\SocialBookmarking\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Laura\source\repos\Auth cu facebook\SocialBookmarking\SocialBookmarking\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Laura\source\repos\Auth cu facebook\SocialBookmarking\SocialBookmarking\bin\roslyn\System.IO.Compression.dll
+C:\Users\Laura\source\repos\Auth cu facebook\SocialBookmarking\SocialBookmarking\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Laura\source\repos\Auth cu facebook\SocialBookmarking\SocialBookmarking\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Laura\source\repos\Auth cu facebook\SocialBookmarking\SocialBookmarking\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Laura\source\repos\Auth cu facebook\SocialBookmarking\SocialBookmarking\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Laura\source\repos\Auth cu facebook\SocialBookmarking\SocialBookmarking\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Laura\source\repos\Auth cu facebook\SocialBookmarking\SocialBookmarking\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Laura\source\repos\Auth cu facebook\SocialBookmarking\SocialBookmarking\bin\roslyn\System.Security.Claims.dll
+C:\Users\Laura\source\repos\Auth cu facebook\SocialBookmarking\SocialBookmarking\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Laura\source\repos\Auth cu facebook\SocialBookmarking\SocialBookmarking\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Laura\source\repos\Auth cu facebook\SocialBookmarking\SocialBookmarking\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Laura\source\repos\Auth cu facebook\SocialBookmarking\SocialBookmarking\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Laura\source\repos\Auth cu facebook\SocialBookmarking\SocialBookmarking\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Laura\source\repos\Auth cu facebook\SocialBookmarking\SocialBookmarking\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Laura\source\repos\Auth cu facebook\SocialBookmarking\SocialBookmarking\bin\roslyn\System.ValueTuple.dll
+C:\Users\Laura\source\repos\Auth cu facebook\SocialBookmarking\SocialBookmarking\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Laura\source\repos\Auth cu facebook\SocialBookmarking\SocialBookmarking\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Laura\source\repos\Auth cu facebook\SocialBookmarking\SocialBookmarking\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Laura\source\repos\Auth cu facebook\SocialBookmarking\SocialBookmarking\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Laura\source\repos\Auth cu facebook\SocialBookmarking\SocialBookmarking\bin\roslyn\vbc.exe
+C:\Users\Laura\source\repos\Auth cu facebook\SocialBookmarking\SocialBookmarking\bin\roslyn\vbc.exe.config
+C:\Users\Laura\source\repos\Auth cu facebook\SocialBookmarking\SocialBookmarking\bin\roslyn\vbc.rsp
+C:\Users\Laura\source\repos\Auth cu facebook\SocialBookmarking\SocialBookmarking\bin\roslyn\VBCSCompiler.exe
+C:\Users\Laura\source\repos\Auth cu facebook\SocialBookmarking\SocialBookmarking\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Laura\source\repos\Auth cu facebook\SocialBookmarking\SocialBookmarking\bin\Antlr3.Runtime.dll
+C:\Users\Laura\source\repos\Auth cu facebook\SocialBookmarking\SocialBookmarking\bin\EntityFramework.dll
+C:\Users\Laura\source\repos\Auth cu facebook\SocialBookmarking\SocialBookmarking\bin\EntityFramework.SqlServer.dll
+C:\Users\Laura\source\repos\Auth cu facebook\SocialBookmarking\SocialBookmarking\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Laura\source\repos\Auth cu facebook\SocialBookmarking\SocialBookmarking\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Laura\source\repos\Auth cu facebook\SocialBookmarking\SocialBookmarking\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Laura\source\repos\Auth cu facebook\SocialBookmarking\SocialBookmarking\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Laura\source\repos\Auth cu facebook\SocialBookmarking\SocialBookmarking\bin\Microsoft.Owin.dll
+C:\Users\Laura\source\repos\Auth cu facebook\SocialBookmarking\SocialBookmarking\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Laura\source\repos\Auth cu facebook\SocialBookmarking\SocialBookmarking\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Laura\source\repos\Auth cu facebook\SocialBookmarking\SocialBookmarking\bin\Microsoft.Owin.Security.dll
+C:\Users\Laura\source\repos\Auth cu facebook\SocialBookmarking\SocialBookmarking\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Laura\source\repos\Auth cu facebook\SocialBookmarking\SocialBookmarking\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Laura\source\repos\Auth cu facebook\SocialBookmarking\SocialBookmarking\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Laura\source\repos\Auth cu facebook\SocialBookmarking\SocialBookmarking\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Laura\source\repos\Auth cu facebook\SocialBookmarking\SocialBookmarking\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Laura\source\repos\Auth cu facebook\SocialBookmarking\SocialBookmarking\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Laura\source\repos\Auth cu facebook\SocialBookmarking\SocialBookmarking\bin\Newtonsoft.Json.dll
+C:\Users\Laura\source\repos\Auth cu facebook\SocialBookmarking\SocialBookmarking\bin\Owin.dll
+C:\Users\Laura\source\repos\Auth cu facebook\SocialBookmarking\SocialBookmarking\bin\System.Web.Helpers.dll
+C:\Users\Laura\source\repos\Auth cu facebook\SocialBookmarking\SocialBookmarking\bin\System.Web.Mvc.dll
+C:\Users\Laura\source\repos\Auth cu facebook\SocialBookmarking\SocialBookmarking\bin\System.Web.Optimization.dll
+C:\Users\Laura\source\repos\Auth cu facebook\SocialBookmarking\SocialBookmarking\bin\System.Web.Razor.dll
+C:\Users\Laura\source\repos\Auth cu facebook\SocialBookmarking\SocialBookmarking\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Laura\source\repos\Auth cu facebook\SocialBookmarking\SocialBookmarking\bin\System.Web.WebPages.dll
+C:\Users\Laura\source\repos\Auth cu facebook\SocialBookmarking\SocialBookmarking\bin\System.Web.WebPages.Razor.dll
+C:\Users\Laura\source\repos\Auth cu facebook\SocialBookmarking\SocialBookmarking\bin\WebGrease.dll
+C:\Users\Laura\source\repos\Auth cu facebook\SocialBookmarking\SocialBookmarking\bin\System.Web.Helpers.xml
+C:\Users\Laura\source\repos\Auth cu facebook\SocialBookmarking\SocialBookmarking\bin\System.Web.Mvc.xml
+C:\Users\Laura\source\repos\Auth cu facebook\SocialBookmarking\SocialBookmarking\bin\System.Web.Optimization.xml
+C:\Users\Laura\source\repos\Auth cu facebook\SocialBookmarking\SocialBookmarking\bin\System.Web.Razor.xml
+C:\Users\Laura\source\repos\Auth cu facebook\SocialBookmarking\SocialBookmarking\bin\System.Web.WebPages.xml
+C:\Users\Laura\source\repos\Auth cu facebook\SocialBookmarking\SocialBookmarking\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Laura\source\repos\Auth cu facebook\SocialBookmarking\SocialBookmarking\bin\System.Web.WebPages.Razor.xml
+C:\Users\Laura\source\repos\Auth cu facebook\SocialBookmarking\SocialBookmarking\bin\Newtonsoft.Json.xml
+C:\Users\Laura\source\repos\Auth cu facebook\SocialBookmarking\SocialBookmarking\bin\Antlr3.Runtime.pdb
+C:\Users\Laura\source\repos\Auth cu facebook\SocialBookmarking\SocialBookmarking\bin\EntityFramework.xml
+C:\Users\Laura\source\repos\Auth cu facebook\SocialBookmarking\SocialBookmarking\bin\EntityFramework.SqlServer.xml
+C:\Users\Laura\source\repos\Auth cu facebook\SocialBookmarking\SocialBookmarking\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Laura\source\repos\Auth cu facebook\SocialBookmarking\SocialBookmarking\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Laura\source\repos\Auth cu facebook\SocialBookmarking\SocialBookmarking\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Laura\source\repos\Auth cu facebook\SocialBookmarking\SocialBookmarking\bin\Microsoft.Owin.xml
+C:\Users\Laura\source\repos\Auth cu facebook\SocialBookmarking\SocialBookmarking\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Laura\source\repos\Auth cu facebook\SocialBookmarking\SocialBookmarking\bin\Microsoft.Owin.Security.xml
+C:\Users\Laura\source\repos\Auth cu facebook\SocialBookmarking\SocialBookmarking\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Laura\source\repos\Auth cu facebook\SocialBookmarking\SocialBookmarking\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Laura\source\repos\Auth cu facebook\SocialBookmarking\SocialBookmarking\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Laura\source\repos\Auth cu facebook\SocialBookmarking\SocialBookmarking\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Laura\source\repos\Auth cu facebook\SocialBookmarking\SocialBookmarking\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Laura\source\repos\Auth cu facebook\SocialBookmarking\SocialBookmarking\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Laura\source\repos\Auth cu facebook\SocialBookmarking\SocialBookmarking\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Laura\source\repos\Auth cu facebook\SocialBookmarking\SocialBookmarking\obj\Debug\SocialBookmarking.csprojAssemblyReference.cache
+C:\Users\Laura\source\repos\Auth cu facebook\SocialBookmarking\SocialBookmarking\obj\Debug\SocialBookmarking.Migrations.Initial.resources
+C:\Users\Laura\source\repos\Auth cu facebook\SocialBookmarking\SocialBookmarking\obj\Debug\SocialBookmarking.csproj.GenerateResource.cache
+C:\Users\Laura\source\repos\Auth cu facebook\SocialBookmarking\SocialBookmarking\obj\Debug\SocialBookmarking.csproj.CoreCompileInputs.cache
+C:\Users\Laura\source\repos\Auth cu facebook\SocialBookmarking\SocialBookmarking\obj\Debug\SocialBookmarking.csproj.CopyComplete
+C:\Users\Laura\source\repos\Auth cu facebook\SocialBookmarking\SocialBookmarking\obj\Debug\SocialBookmarking.dll
+C:\Users\Laura\source\repos\Auth cu facebook\SocialBookmarking\SocialBookmarking\obj\Debug\SocialBookmarking.pdb
+d:\Users\Comorasu\Desktop\Proiect Prezentare Dec Lau\SocialBookmarking\SocialBookmarking\bin\SocialBookmarking.dll.config
+d:\Users\Comorasu\Desktop\Proiect Prezentare Dec Lau\SocialBookmarking\SocialBookmarking\bin\SocialBookmarking.dll
+d:\Users\Comorasu\Desktop\Proiect Prezentare Dec Lau\SocialBookmarking\SocialBookmarking\bin\SocialBookmarking.pdb
+d:\Users\Comorasu\Desktop\Proiect Prezentare Dec Lau\SocialBookmarking\SocialBookmarking\bin\roslyn\csc.exe
+d:\Users\Comorasu\Desktop\Proiect Prezentare Dec Lau\SocialBookmarking\SocialBookmarking\bin\roslyn\csc.exe.config
+d:\Users\Comorasu\Desktop\Proiect Prezentare Dec Lau\SocialBookmarking\SocialBookmarking\bin\roslyn\csc.rsp
+d:\Users\Comorasu\Desktop\Proiect Prezentare Dec Lau\SocialBookmarking\SocialBookmarking\bin\roslyn\csi.exe
+d:\Users\Comorasu\Desktop\Proiect Prezentare Dec Lau\SocialBookmarking\SocialBookmarking\bin\roslyn\csi.exe.config
+d:\Users\Comorasu\Desktop\Proiect Prezentare Dec Lau\SocialBookmarking\SocialBookmarking\bin\roslyn\csi.rsp
+d:\Users\Comorasu\Desktop\Proiect Prezentare Dec Lau\SocialBookmarking\SocialBookmarking\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+d:\Users\Comorasu\Desktop\Proiect Prezentare Dec Lau\SocialBookmarking\SocialBookmarking\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+d:\Users\Comorasu\Desktop\Proiect Prezentare Dec Lau\SocialBookmarking\SocialBookmarking\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+d:\Users\Comorasu\Desktop\Proiect Prezentare Dec Lau\SocialBookmarking\SocialBookmarking\bin\roslyn\Microsoft.CodeAnalysis.dll
+d:\Users\Comorasu\Desktop\Proiect Prezentare Dec Lau\SocialBookmarking\SocialBookmarking\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+d:\Users\Comorasu\Desktop\Proiect Prezentare Dec Lau\SocialBookmarking\SocialBookmarking\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+d:\Users\Comorasu\Desktop\Proiect Prezentare Dec Lau\SocialBookmarking\SocialBookmarking\bin\roslyn\Microsoft.CSharp.Core.targets
+d:\Users\Comorasu\Desktop\Proiect Prezentare Dec Lau\SocialBookmarking\SocialBookmarking\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+d:\Users\Comorasu\Desktop\Proiect Prezentare Dec Lau\SocialBookmarking\SocialBookmarking\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+d:\Users\Comorasu\Desktop\Proiect Prezentare Dec Lau\SocialBookmarking\SocialBookmarking\bin\roslyn\Microsoft.Managed.Core.targets
+d:\Users\Comorasu\Desktop\Proiect Prezentare Dec Lau\SocialBookmarking\SocialBookmarking\bin\roslyn\Microsoft.VisualBasic.Core.targets
+d:\Users\Comorasu\Desktop\Proiect Prezentare Dec Lau\SocialBookmarking\SocialBookmarking\bin\roslyn\System.AppContext.dll
+d:\Users\Comorasu\Desktop\Proiect Prezentare Dec Lau\SocialBookmarking\SocialBookmarking\bin\roslyn\System.Collections.Immutable.dll
+d:\Users\Comorasu\Desktop\Proiect Prezentare Dec Lau\SocialBookmarking\SocialBookmarking\bin\roslyn\System.Console.dll
+d:\Users\Comorasu\Desktop\Proiect Prezentare Dec Lau\SocialBookmarking\SocialBookmarking\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+d:\Users\Comorasu\Desktop\Proiect Prezentare Dec Lau\SocialBookmarking\SocialBookmarking\bin\roslyn\System.Diagnostics.StackTrace.dll
+d:\Users\Comorasu\Desktop\Proiect Prezentare Dec Lau\SocialBookmarking\SocialBookmarking\bin\roslyn\System.IO.Compression.dll
+d:\Users\Comorasu\Desktop\Proiect Prezentare Dec Lau\SocialBookmarking\SocialBookmarking\bin\roslyn\System.IO.FileSystem.dll
+d:\Users\Comorasu\Desktop\Proiect Prezentare Dec Lau\SocialBookmarking\SocialBookmarking\bin\roslyn\System.IO.FileSystem.Primitives.dll
+d:\Users\Comorasu\Desktop\Proiect Prezentare Dec Lau\SocialBookmarking\SocialBookmarking\bin\roslyn\System.IO.Pipes.AccessControl.dll
+d:\Users\Comorasu\Desktop\Proiect Prezentare Dec Lau\SocialBookmarking\SocialBookmarking\bin\roslyn\System.IO.Pipes.dll
+d:\Users\Comorasu\Desktop\Proiect Prezentare Dec Lau\SocialBookmarking\SocialBookmarking\bin\roslyn\System.Reflection.Metadata.dll
+d:\Users\Comorasu\Desktop\Proiect Prezentare Dec Lau\SocialBookmarking\SocialBookmarking\bin\roslyn\System.Security.AccessControl.dll
+d:\Users\Comorasu\Desktop\Proiect Prezentare Dec Lau\SocialBookmarking\SocialBookmarking\bin\roslyn\System.Security.Claims.dll
+d:\Users\Comorasu\Desktop\Proiect Prezentare Dec Lau\SocialBookmarking\SocialBookmarking\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+d:\Users\Comorasu\Desktop\Proiect Prezentare Dec Lau\SocialBookmarking\SocialBookmarking\bin\roslyn\System.Security.Cryptography.Encoding.dll
+d:\Users\Comorasu\Desktop\Proiect Prezentare Dec Lau\SocialBookmarking\SocialBookmarking\bin\roslyn\System.Security.Cryptography.Primitives.dll
+d:\Users\Comorasu\Desktop\Proiect Prezentare Dec Lau\SocialBookmarking\SocialBookmarking\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+d:\Users\Comorasu\Desktop\Proiect Prezentare Dec Lau\SocialBookmarking\SocialBookmarking\bin\roslyn\System.Security.Principal.Windows.dll
+d:\Users\Comorasu\Desktop\Proiect Prezentare Dec Lau\SocialBookmarking\SocialBookmarking\bin\roslyn\System.Text.Encoding.CodePages.dll
+d:\Users\Comorasu\Desktop\Proiect Prezentare Dec Lau\SocialBookmarking\SocialBookmarking\bin\roslyn\System.ValueTuple.dll
+d:\Users\Comorasu\Desktop\Proiect Prezentare Dec Lau\SocialBookmarking\SocialBookmarking\bin\roslyn\System.Xml.ReaderWriter.dll
+d:\Users\Comorasu\Desktop\Proiect Prezentare Dec Lau\SocialBookmarking\SocialBookmarking\bin\roslyn\System.Xml.XmlDocument.dll
+d:\Users\Comorasu\Desktop\Proiect Prezentare Dec Lau\SocialBookmarking\SocialBookmarking\bin\roslyn\System.Xml.XPath.dll
+d:\Users\Comorasu\Desktop\Proiect Prezentare Dec Lau\SocialBookmarking\SocialBookmarking\bin\roslyn\System.Xml.XPath.XDocument.dll
+d:\Users\Comorasu\Desktop\Proiect Prezentare Dec Lau\SocialBookmarking\SocialBookmarking\bin\roslyn\vbc.exe
+d:\Users\Comorasu\Desktop\Proiect Prezentare Dec Lau\SocialBookmarking\SocialBookmarking\bin\roslyn\vbc.exe.config
+d:\Users\Comorasu\Desktop\Proiect Prezentare Dec Lau\SocialBookmarking\SocialBookmarking\bin\roslyn\vbc.rsp
+d:\Users\Comorasu\Desktop\Proiect Prezentare Dec Lau\SocialBookmarking\SocialBookmarking\bin\roslyn\VBCSCompiler.exe
+d:\Users\Comorasu\Desktop\Proiect Prezentare Dec Lau\SocialBookmarking\SocialBookmarking\bin\roslyn\VBCSCompiler.exe.config
+d:\Users\Comorasu\Desktop\Proiect Prezentare Dec Lau\SocialBookmarking\SocialBookmarking\bin\Antlr3.Runtime.dll
+d:\Users\Comorasu\Desktop\Proiect Prezentare Dec Lau\SocialBookmarking\SocialBookmarking\bin\EntityFramework.dll
+d:\Users\Comorasu\Desktop\Proiect Prezentare Dec Lau\SocialBookmarking\SocialBookmarking\bin\EntityFramework.SqlServer.dll
+d:\Users\Comorasu\Desktop\Proiect Prezentare Dec Lau\SocialBookmarking\SocialBookmarking\bin\Microsoft.AspNet.Identity.Core.dll
+d:\Users\Comorasu\Desktop\Proiect Prezentare Dec Lau\SocialBookmarking\SocialBookmarking\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+d:\Users\Comorasu\Desktop\Proiect Prezentare Dec Lau\SocialBookmarking\SocialBookmarking\bin\Microsoft.AspNet.Identity.Owin.dll
+d:\Users\Comorasu\Desktop\Proiect Prezentare Dec Lau\SocialBookmarking\SocialBookmarking\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+d:\Users\Comorasu\Desktop\Proiect Prezentare Dec Lau\SocialBookmarking\SocialBookmarking\bin\Microsoft.Owin.dll
+d:\Users\Comorasu\Desktop\Proiect Prezentare Dec Lau\SocialBookmarking\SocialBookmarking\bin\Microsoft.Owin.Host.SystemWeb.dll
+d:\Users\Comorasu\Desktop\Proiect Prezentare Dec Lau\SocialBookmarking\SocialBookmarking\bin\Microsoft.Owin.Security.Cookies.dll
+d:\Users\Comorasu\Desktop\Proiect Prezentare Dec Lau\SocialBookmarking\SocialBookmarking\bin\Microsoft.Owin.Security.dll
+d:\Users\Comorasu\Desktop\Proiect Prezentare Dec Lau\SocialBookmarking\SocialBookmarking\bin\Microsoft.Owin.Security.Facebook.dll
+d:\Users\Comorasu\Desktop\Proiect Prezentare Dec Lau\SocialBookmarking\SocialBookmarking\bin\Microsoft.Owin.Security.Google.dll
+d:\Users\Comorasu\Desktop\Proiect Prezentare Dec Lau\SocialBookmarking\SocialBookmarking\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+d:\Users\Comorasu\Desktop\Proiect Prezentare Dec Lau\SocialBookmarking\SocialBookmarking\bin\Microsoft.Owin.Security.OAuth.dll
+d:\Users\Comorasu\Desktop\Proiect Prezentare Dec Lau\SocialBookmarking\SocialBookmarking\bin\Microsoft.Owin.Security.Twitter.dll
+d:\Users\Comorasu\Desktop\Proiect Prezentare Dec Lau\SocialBookmarking\SocialBookmarking\bin\Microsoft.Web.Infrastructure.dll
+d:\Users\Comorasu\Desktop\Proiect Prezentare Dec Lau\SocialBookmarking\SocialBookmarking\bin\Newtonsoft.Json.dll
+d:\Users\Comorasu\Desktop\Proiect Prezentare Dec Lau\SocialBookmarking\SocialBookmarking\bin\Owin.dll
+d:\Users\Comorasu\Desktop\Proiect Prezentare Dec Lau\SocialBookmarking\SocialBookmarking\bin\System.Web.Helpers.dll
+d:\Users\Comorasu\Desktop\Proiect Prezentare Dec Lau\SocialBookmarking\SocialBookmarking\bin\System.Web.Mvc.dll
+d:\Users\Comorasu\Desktop\Proiect Prezentare Dec Lau\SocialBookmarking\SocialBookmarking\bin\System.Web.Optimization.dll
+d:\Users\Comorasu\Desktop\Proiect Prezentare Dec Lau\SocialBookmarking\SocialBookmarking\bin\System.Web.Razor.dll
+d:\Users\Comorasu\Desktop\Proiect Prezentare Dec Lau\SocialBookmarking\SocialBookmarking\bin\System.Web.WebPages.Deployment.dll
+d:\Users\Comorasu\Desktop\Proiect Prezentare Dec Lau\SocialBookmarking\SocialBookmarking\bin\System.Web.WebPages.dll
+d:\Users\Comorasu\Desktop\Proiect Prezentare Dec Lau\SocialBookmarking\SocialBookmarking\bin\System.Web.WebPages.Razor.dll
+d:\Users\Comorasu\Desktop\Proiect Prezentare Dec Lau\SocialBookmarking\SocialBookmarking\bin\WebGrease.dll
+d:\Users\Comorasu\Desktop\Proiect Prezentare Dec Lau\SocialBookmarking\SocialBookmarking\bin\System.Web.Helpers.xml
+d:\Users\Comorasu\Desktop\Proiect Prezentare Dec Lau\SocialBookmarking\SocialBookmarking\bin\System.Web.Mvc.xml
+d:\Users\Comorasu\Desktop\Proiect Prezentare Dec Lau\SocialBookmarking\SocialBookmarking\bin\System.Web.Optimization.xml
+d:\Users\Comorasu\Desktop\Proiect Prezentare Dec Lau\SocialBookmarking\SocialBookmarking\bin\System.Web.Razor.xml
+d:\Users\Comorasu\Desktop\Proiect Prezentare Dec Lau\SocialBookmarking\SocialBookmarking\bin\System.Web.WebPages.xml
+d:\Users\Comorasu\Desktop\Proiect Prezentare Dec Lau\SocialBookmarking\SocialBookmarking\bin\System.Web.WebPages.Deployment.xml
+d:\Users\Comorasu\Desktop\Proiect Prezentare Dec Lau\SocialBookmarking\SocialBookmarking\bin\System.Web.WebPages.Razor.xml
+d:\Users\Comorasu\Desktop\Proiect Prezentare Dec Lau\SocialBookmarking\SocialBookmarking\bin\Newtonsoft.Json.xml
+d:\Users\Comorasu\Desktop\Proiect Prezentare Dec Lau\SocialBookmarking\SocialBookmarking\bin\Antlr3.Runtime.pdb
+d:\Users\Comorasu\Desktop\Proiect Prezentare Dec Lau\SocialBookmarking\SocialBookmarking\bin\EntityFramework.xml
+d:\Users\Comorasu\Desktop\Proiect Prezentare Dec Lau\SocialBookmarking\SocialBookmarking\bin\EntityFramework.SqlServer.xml
+d:\Users\Comorasu\Desktop\Proiect Prezentare Dec Lau\SocialBookmarking\SocialBookmarking\bin\Microsoft.AspNet.Identity.Core.xml
+d:\Users\Comorasu\Desktop\Proiect Prezentare Dec Lau\SocialBookmarking\SocialBookmarking\bin\Microsoft.AspNet.Identity.Owin.xml
+d:\Users\Comorasu\Desktop\Proiect Prezentare Dec Lau\SocialBookmarking\SocialBookmarking\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+d:\Users\Comorasu\Desktop\Proiect Prezentare Dec Lau\SocialBookmarking\SocialBookmarking\bin\Microsoft.Owin.xml
+d:\Users\Comorasu\Desktop\Proiect Prezentare Dec Lau\SocialBookmarking\SocialBookmarking\bin\Microsoft.Owin.Host.SystemWeb.xml
+d:\Users\Comorasu\Desktop\Proiect Prezentare Dec Lau\SocialBookmarking\SocialBookmarking\bin\Microsoft.Owin.Security.xml
+d:\Users\Comorasu\Desktop\Proiect Prezentare Dec Lau\SocialBookmarking\SocialBookmarking\bin\Microsoft.Owin.Security.Facebook.xml
+d:\Users\Comorasu\Desktop\Proiect Prezentare Dec Lau\SocialBookmarking\SocialBookmarking\bin\Microsoft.Owin.Security.Cookies.xml
+d:\Users\Comorasu\Desktop\Proiect Prezentare Dec Lau\SocialBookmarking\SocialBookmarking\bin\Microsoft.Owin.Security.Google.xml
+d:\Users\Comorasu\Desktop\Proiect Prezentare Dec Lau\SocialBookmarking\SocialBookmarking\bin\Microsoft.Owin.Security.Twitter.xml
+d:\Users\Comorasu\Desktop\Proiect Prezentare Dec Lau\SocialBookmarking\SocialBookmarking\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+d:\Users\Comorasu\Desktop\Proiect Prezentare Dec Lau\SocialBookmarking\SocialBookmarking\bin\Microsoft.Owin.Security.OAuth.xml
+d:\Users\Comorasu\Desktop\Proiect Prezentare Dec Lau\SocialBookmarking\SocialBookmarking\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+d:\Users\Comorasu\Desktop\Proiect Prezentare Dec Lau\SocialBookmarking\SocialBookmarking\obj\Debug\SocialBookmarking.csprojAssemblyReference.cache
+d:\Users\Comorasu\Desktop\Proiect Prezentare Dec Lau\SocialBookmarking\SocialBookmarking\obj\Debug\SocialBookmarking.Migrations.Initial.resources
+d:\Users\Comorasu\Desktop\Proiect Prezentare Dec Lau\SocialBookmarking\SocialBookmarking\obj\Debug\SocialBookmarking.csproj.GenerateResource.cache
+d:\Users\Comorasu\Desktop\Proiect Prezentare Dec Lau\SocialBookmarking\SocialBookmarking\obj\Debug\SocialBookmarking.csproj.CoreCompileInputs.cache
+d:\Users\Comorasu\Desktop\Proiect Prezentare Dec Lau\SocialBookmarking\SocialBookmarking\obj\Debug\SocialBookmarking.csproj.CopyComplete
+d:\Users\Comorasu\Desktop\Proiect Prezentare Dec Lau\SocialBookmarking\SocialBookmarking\obj\Debug\SocialBookmarking.dll
+d:\Users\Comorasu\Desktop\Proiect Prezentare Dec Lau\SocialBookmarking\SocialBookmarking\obj\Debug\SocialBookmarking.pdb
+d:\Users\Comorasu\Desktop\Proiect Prezentare Dec Lau - Copy\SocialBookmarking\SocialBookmarking\bin\SocialBookmarking.dll.config
+d:\Users\Comorasu\Desktop\Proiect Prezentare Dec Lau - Copy\SocialBookmarking\SocialBookmarking\bin\SocialBookmarking.dll
+d:\Users\Comorasu\Desktop\Proiect Prezentare Dec Lau - Copy\SocialBookmarking\SocialBookmarking\bin\SocialBookmarking.pdb
+d:\Users\Comorasu\Desktop\Proiect Prezentare Dec Lau - Copy\SocialBookmarking\SocialBookmarking\bin\roslyn\csc.exe
+d:\Users\Comorasu\Desktop\Proiect Prezentare Dec Lau - Copy\SocialBookmarking\SocialBookmarking\bin\roslyn\csc.exe.config
+d:\Users\Comorasu\Desktop\Proiect Prezentare Dec Lau - Copy\SocialBookmarking\SocialBookmarking\bin\roslyn\csc.rsp
+d:\Users\Comorasu\Desktop\Proiect Prezentare Dec Lau - Copy\SocialBookmarking\SocialBookmarking\bin\roslyn\csi.exe
+d:\Users\Comorasu\Desktop\Proiect Prezentare Dec Lau - Copy\SocialBookmarking\SocialBookmarking\bin\roslyn\csi.exe.config
+d:\Users\Comorasu\Desktop\Proiect Prezentare Dec Lau - Copy\SocialBookmarking\SocialBookmarking\bin\roslyn\csi.rsp
+d:\Users\Comorasu\Desktop\Proiect Prezentare Dec Lau - Copy\SocialBookmarking\SocialBookmarking\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+d:\Users\Comorasu\Desktop\Proiect Prezentare Dec Lau - Copy\SocialBookmarking\SocialBookmarking\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+d:\Users\Comorasu\Desktop\Proiect Prezentare Dec Lau - Copy\SocialBookmarking\SocialBookmarking\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+d:\Users\Comorasu\Desktop\Proiect Prezentare Dec Lau - Copy\SocialBookmarking\SocialBookmarking\bin\roslyn\Microsoft.CodeAnalysis.dll
+d:\Users\Comorasu\Desktop\Proiect Prezentare Dec Lau - Copy\SocialBookmarking\SocialBookmarking\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+d:\Users\Comorasu\Desktop\Proiect Prezentare Dec Lau - Copy\SocialBookmarking\SocialBookmarking\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+d:\Users\Comorasu\Desktop\Proiect Prezentare Dec Lau - Copy\SocialBookmarking\SocialBookmarking\bin\roslyn\Microsoft.CSharp.Core.targets
+d:\Users\Comorasu\Desktop\Proiect Prezentare Dec Lau - Copy\SocialBookmarking\SocialBookmarking\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+d:\Users\Comorasu\Desktop\Proiect Prezentare Dec Lau - Copy\SocialBookmarking\SocialBookmarking\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+d:\Users\Comorasu\Desktop\Proiect Prezentare Dec Lau - Copy\SocialBookmarking\SocialBookmarking\bin\roslyn\Microsoft.Managed.Core.targets
+d:\Users\Comorasu\Desktop\Proiect Prezentare Dec Lau - Copy\SocialBookmarking\SocialBookmarking\bin\roslyn\Microsoft.VisualBasic.Core.targets
+d:\Users\Comorasu\Desktop\Proiect Prezentare Dec Lau - Copy\SocialBookmarking\SocialBookmarking\bin\roslyn\System.AppContext.dll
+d:\Users\Comorasu\Desktop\Proiect Prezentare Dec Lau - Copy\SocialBookmarking\SocialBookmarking\bin\roslyn\System.Collections.Immutable.dll
+d:\Users\Comorasu\Desktop\Proiect Prezentare Dec Lau - Copy\SocialBookmarking\SocialBookmarking\bin\roslyn\System.Console.dll
+d:\Users\Comorasu\Desktop\Proiect Prezentare Dec Lau - Copy\SocialBookmarking\SocialBookmarking\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+d:\Users\Comorasu\Desktop\Proiect Prezentare Dec Lau - Copy\SocialBookmarking\SocialBookmarking\bin\roslyn\System.Diagnostics.StackTrace.dll
+d:\Users\Comorasu\Desktop\Proiect Prezentare Dec Lau - Copy\SocialBookmarking\SocialBookmarking\bin\roslyn\System.IO.Compression.dll
+d:\Users\Comorasu\Desktop\Proiect Prezentare Dec Lau - Copy\SocialBookmarking\SocialBookmarking\bin\roslyn\System.IO.FileSystem.dll
+d:\Users\Comorasu\Desktop\Proiect Prezentare Dec Lau - Copy\SocialBookmarking\SocialBookmarking\bin\roslyn\System.IO.FileSystem.Primitives.dll
+d:\Users\Comorasu\Desktop\Proiect Prezentare Dec Lau - Copy\SocialBookmarking\SocialBookmarking\bin\roslyn\System.IO.Pipes.AccessControl.dll
+d:\Users\Comorasu\Desktop\Proiect Prezentare Dec Lau - Copy\SocialBookmarking\SocialBookmarking\bin\roslyn\System.IO.Pipes.dll
+d:\Users\Comorasu\Desktop\Proiect Prezentare Dec Lau - Copy\SocialBookmarking\SocialBookmarking\bin\roslyn\System.Reflection.Metadata.dll
+d:\Users\Comorasu\Desktop\Proiect Prezentare Dec Lau - Copy\SocialBookmarking\SocialBookmarking\bin\roslyn\System.Security.AccessControl.dll
+d:\Users\Comorasu\Desktop\Proiect Prezentare Dec Lau - Copy\SocialBookmarking\SocialBookmarking\bin\roslyn\System.Security.Claims.dll
+d:\Users\Comorasu\Desktop\Proiect Prezentare Dec Lau - Copy\SocialBookmarking\SocialBookmarking\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+d:\Users\Comorasu\Desktop\Proiect Prezentare Dec Lau - Copy\SocialBookmarking\SocialBookmarking\bin\roslyn\System.Security.Cryptography.Encoding.dll
+d:\Users\Comorasu\Desktop\Proiect Prezentare Dec Lau - Copy\SocialBookmarking\SocialBookmarking\bin\roslyn\System.Security.Cryptography.Primitives.dll
+d:\Users\Comorasu\Desktop\Proiect Prezentare Dec Lau - Copy\SocialBookmarking\SocialBookmarking\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+d:\Users\Comorasu\Desktop\Proiect Prezentare Dec Lau - Copy\SocialBookmarking\SocialBookmarking\bin\roslyn\System.Security.Principal.Windows.dll
+d:\Users\Comorasu\Desktop\Proiect Prezentare Dec Lau - Copy\SocialBookmarking\SocialBookmarking\bin\roslyn\System.Text.Encoding.CodePages.dll
+d:\Users\Comorasu\Desktop\Proiect Prezentare Dec Lau - Copy\SocialBookmarking\SocialBookmarking\bin\roslyn\System.ValueTuple.dll
+d:\Users\Comorasu\Desktop\Proiect Prezentare Dec Lau - Copy\SocialBookmarking\SocialBookmarking\bin\roslyn\System.Xml.ReaderWriter.dll
+d:\Users\Comorasu\Desktop\Proiect Prezentare Dec Lau - Copy\SocialBookmarking\SocialBookmarking\bin\roslyn\System.Xml.XmlDocument.dll
+d:\Users\Comorasu\Desktop\Proiect Prezentare Dec Lau - Copy\SocialBookmarking\SocialBookmarking\bin\roslyn\System.Xml.XPath.dll
+d:\Users\Comorasu\Desktop\Proiect Prezentare Dec Lau - Copy\SocialBookmarking\SocialBookmarking\bin\roslyn\System.Xml.XPath.XDocument.dll
+d:\Users\Comorasu\Desktop\Proiect Prezentare Dec Lau - Copy\SocialBookmarking\SocialBookmarking\bin\roslyn\vbc.exe
+d:\Users\Comorasu\Desktop\Proiect Prezentare Dec Lau - Copy\SocialBookmarking\SocialBookmarking\bin\roslyn\vbc.exe.config
+d:\Users\Comorasu\Desktop\Proiect Prezentare Dec Lau - Copy\SocialBookmarking\SocialBookmarking\bin\roslyn\vbc.rsp
+d:\Users\Comorasu\Desktop\Proiect Prezentare Dec Lau - Copy\SocialBookmarking\SocialBookmarking\bin\roslyn\VBCSCompiler.exe
+d:\Users\Comorasu\Desktop\Proiect Prezentare Dec Lau - Copy\SocialBookmarking\SocialBookmarking\bin\roslyn\VBCSCompiler.exe.config
+d:\Users\Comorasu\Desktop\Proiect Prezentare Dec Lau - Copy\SocialBookmarking\SocialBookmarking\bin\Antlr3.Runtime.dll
+d:\Users\Comorasu\Desktop\Proiect Prezentare Dec Lau - Copy\SocialBookmarking\SocialBookmarking\bin\EntityFramework.dll
+d:\Users\Comorasu\Desktop\Proiect Prezentare Dec Lau - Copy\SocialBookmarking\SocialBookmarking\bin\EntityFramework.SqlServer.dll
+d:\Users\Comorasu\Desktop\Proiect Prezentare Dec Lau - Copy\SocialBookmarking\SocialBookmarking\bin\Microsoft.AspNet.Identity.Core.dll
+d:\Users\Comorasu\Desktop\Proiect Prezentare Dec Lau - Copy\SocialBookmarking\SocialBookmarking\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+d:\Users\Comorasu\Desktop\Proiect Prezentare Dec Lau - Copy\SocialBookmarking\SocialBookmarking\bin\Microsoft.AspNet.Identity.Owin.dll
+d:\Users\Comorasu\Desktop\Proiect Prezentare Dec Lau - Copy\SocialBookmarking\SocialBookmarking\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+d:\Users\Comorasu\Desktop\Proiect Prezentare Dec Lau - Copy\SocialBookmarking\SocialBookmarking\bin\Microsoft.Owin.dll
+d:\Users\Comorasu\Desktop\Proiect Prezentare Dec Lau - Copy\SocialBookmarking\SocialBookmarking\bin\Microsoft.Owin.Host.SystemWeb.dll
+d:\Users\Comorasu\Desktop\Proiect Prezentare Dec Lau - Copy\SocialBookmarking\SocialBookmarking\bin\Microsoft.Owin.Security.Cookies.dll
+d:\Users\Comorasu\Desktop\Proiect Prezentare Dec Lau - Copy\SocialBookmarking\SocialBookmarking\bin\Microsoft.Owin.Security.dll
+d:\Users\Comorasu\Desktop\Proiect Prezentare Dec Lau - Copy\SocialBookmarking\SocialBookmarking\bin\Microsoft.Owin.Security.Facebook.dll
+d:\Users\Comorasu\Desktop\Proiect Prezentare Dec Lau - Copy\SocialBookmarking\SocialBookmarking\bin\Microsoft.Owin.Security.Google.dll
+d:\Users\Comorasu\Desktop\Proiect Prezentare Dec Lau - Copy\SocialBookmarking\SocialBookmarking\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+d:\Users\Comorasu\Desktop\Proiect Prezentare Dec Lau - Copy\SocialBookmarking\SocialBookmarking\bin\Microsoft.Owin.Security.OAuth.dll
+d:\Users\Comorasu\Desktop\Proiect Prezentare Dec Lau - Copy\SocialBookmarking\SocialBookmarking\bin\Microsoft.Owin.Security.Twitter.dll
+d:\Users\Comorasu\Desktop\Proiect Prezentare Dec Lau - Copy\SocialBookmarking\SocialBookmarking\bin\Microsoft.Web.Infrastructure.dll
+d:\Users\Comorasu\Desktop\Proiect Prezentare Dec Lau - Copy\SocialBookmarking\SocialBookmarking\bin\Newtonsoft.Json.dll
+d:\Users\Comorasu\Desktop\Proiect Prezentare Dec Lau - Copy\SocialBookmarking\SocialBookmarking\bin\Owin.dll
+d:\Users\Comorasu\Desktop\Proiect Prezentare Dec Lau - Copy\SocialBookmarking\SocialBookmarking\bin\System.Web.Helpers.dll
+d:\Users\Comorasu\Desktop\Proiect Prezentare Dec Lau - Copy\SocialBookmarking\SocialBookmarking\bin\System.Web.Mvc.dll
+d:\Users\Comorasu\Desktop\Proiect Prezentare Dec Lau - Copy\SocialBookmarking\SocialBookmarking\bin\System.Web.Optimization.dll
+d:\Users\Comorasu\Desktop\Proiect Prezentare Dec Lau - Copy\SocialBookmarking\SocialBookmarking\bin\System.Web.Razor.dll
+d:\Users\Comorasu\Desktop\Proiect Prezentare Dec Lau - Copy\SocialBookmarking\SocialBookmarking\bin\System.Web.WebPages.Deployment.dll
+d:\Users\Comorasu\Desktop\Proiect Prezentare Dec Lau - Copy\SocialBookmarking\SocialBookmarking\bin\System.Web.WebPages.dll
+d:\Users\Comorasu\Desktop\Proiect Prezentare Dec Lau - Copy\SocialBookmarking\SocialBookmarking\bin\System.Web.WebPages.Razor.dll
+d:\Users\Comorasu\Desktop\Proiect Prezentare Dec Lau - Copy\SocialBookmarking\SocialBookmarking\bin\WebGrease.dll
+d:\Users\Comorasu\Desktop\Proiect Prezentare Dec Lau - Copy\SocialBookmarking\SocialBookmarking\bin\System.Web.Helpers.xml
+d:\Users\Comorasu\Desktop\Proiect Prezentare Dec Lau - Copy\SocialBookmarking\SocialBookmarking\bin\System.Web.Mvc.xml
+d:\Users\Comorasu\Desktop\Proiect Prezentare Dec Lau - Copy\SocialBookmarking\SocialBookmarking\bin\System.Web.Optimization.xml
+d:\Users\Comorasu\Desktop\Proiect Prezentare Dec Lau - Copy\SocialBookmarking\SocialBookmarking\bin\System.Web.Razor.xml
+d:\Users\Comorasu\Desktop\Proiect Prezentare Dec Lau - Copy\SocialBookmarking\SocialBookmarking\bin\System.Web.WebPages.xml
+d:\Users\Comorasu\Desktop\Proiect Prezentare Dec Lau - Copy\SocialBookmarking\SocialBookmarking\bin\System.Web.WebPages.Deployment.xml
+d:\Users\Comorasu\Desktop\Proiect Prezentare Dec Lau - Copy\SocialBookmarking\SocialBookmarking\bin\System.Web.WebPages.Razor.xml
+d:\Users\Comorasu\Desktop\Proiect Prezentare Dec Lau - Copy\SocialBookmarking\SocialBookmarking\bin\Newtonsoft.Json.xml
+d:\Users\Comorasu\Desktop\Proiect Prezentare Dec Lau - Copy\SocialBookmarking\SocialBookmarking\bin\Antlr3.Runtime.pdb
+d:\Users\Comorasu\Desktop\Proiect Prezentare Dec Lau - Copy\SocialBookmarking\SocialBookmarking\bin\EntityFramework.xml
+d:\Users\Comorasu\Desktop\Proiect Prezentare Dec Lau - Copy\SocialBookmarking\SocialBookmarking\bin\EntityFramework.SqlServer.xml
+d:\Users\Comorasu\Desktop\Proiect Prezentare Dec Lau - Copy\SocialBookmarking\SocialBookmarking\bin\Microsoft.AspNet.Identity.Core.xml
+d:\Users\Comorasu\Desktop\Proiect Prezentare Dec Lau - Copy\SocialBookmarking\SocialBookmarking\bin\Microsoft.AspNet.Identity.Owin.xml
+d:\Users\Comorasu\Desktop\Proiect Prezentare Dec Lau - Copy\SocialBookmarking\SocialBookmarking\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+d:\Users\Comorasu\Desktop\Proiect Prezentare Dec Lau - Copy\SocialBookmarking\SocialBookmarking\bin\Microsoft.Owin.xml
+d:\Users\Comorasu\Desktop\Proiect Prezentare Dec Lau - Copy\SocialBookmarking\SocialBookmarking\bin\Microsoft.Owin.Host.SystemWeb.xml
+d:\Users\Comorasu\Desktop\Proiect Prezentare Dec Lau - Copy\SocialBookmarking\SocialBookmarking\bin\Microsoft.Owin.Security.xml
+d:\Users\Comorasu\Desktop\Proiect Prezentare Dec Lau - Copy\SocialBookmarking\SocialBookmarking\bin\Microsoft.Owin.Security.Facebook.xml
+d:\Users\Comorasu\Desktop\Proiect Prezentare Dec Lau - Copy\SocialBookmarking\SocialBookmarking\bin\Microsoft.Owin.Security.Cookies.xml
+d:\Users\Comorasu\Desktop\Proiect Prezentare Dec Lau - Copy\SocialBookmarking\SocialBookmarking\bin\Microsoft.Owin.Security.Google.xml
+d:\Users\Comorasu\Desktop\Proiect Prezentare Dec Lau - Copy\SocialBookmarking\SocialBookmarking\bin\Microsoft.Owin.Security.Twitter.xml
+d:\Users\Comorasu\Desktop\Proiect Prezentare Dec Lau - Copy\SocialBookmarking\SocialBookmarking\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+d:\Users\Comorasu\Desktop\Proiect Prezentare Dec Lau - Copy\SocialBookmarking\SocialBookmarking\bin\Microsoft.Owin.Security.OAuth.xml
+d:\Users\Comorasu\Desktop\Proiect Prezentare Dec Lau - Copy\SocialBookmarking\SocialBookmarking\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+d:\Users\Comorasu\Desktop\Proiect Prezentare Dec Lau - Copy\SocialBookmarking\SocialBookmarking\obj\Debug\SocialBookmarking.csprojAssemblyReference.cache
+d:\Users\Comorasu\Desktop\Proiect Prezentare Dec Lau - Copy\SocialBookmarking\SocialBookmarking\obj\Debug\SocialBookmarking.Migrations.Initial.resources
+d:\Users\Comorasu\Desktop\Proiect Prezentare Dec Lau - Copy\SocialBookmarking\SocialBookmarking\obj\Debug\SocialBookmarking.csproj.GenerateResource.cache
+d:\Users\Comorasu\Desktop\Proiect Prezentare Dec Lau - Copy\SocialBookmarking\SocialBookmarking\obj\Debug\SocialBookmarking.csproj.CoreCompileInputs.cache
+d:\Users\Comorasu\Desktop\Proiect Prezentare Dec Lau - Copy\SocialBookmarking\SocialBookmarking\obj\Debug\SocialBookmarking.csproj.CopyComplete
+d:\Users\Comorasu\Desktop\Proiect Prezentare Dec Lau - Copy\SocialBookmarking\SocialBookmarking\obj\Debug\SocialBookmarking.dll
+d:\Users\Comorasu\Desktop\Proiect Prezentare Dec Lau - Copy\SocialBookmarking\SocialBookmarking\obj\Debug\SocialBookmarking.pdb
+C:\Users\Laura\source\repos\Proiect Prezentare Dec Ana\SocialBookmarking\SocialBookmarking\bin\SocialBookmarking.dll.config
+C:\Users\Laura\source\repos\Proiect Prezentare Dec Ana\SocialBookmarking\SocialBookmarking\bin\SocialBookmarking.dll
+C:\Users\Laura\source\repos\Proiect Prezentare Dec Ana\SocialBookmarking\SocialBookmarking\bin\SocialBookmarking.pdb
+C:\Users\Laura\source\repos\Proiect Prezentare Dec Ana\SocialBookmarking\SocialBookmarking\bin\roslyn\csc.exe
+C:\Users\Laura\source\repos\Proiect Prezentare Dec Ana\SocialBookmarking\SocialBookmarking\bin\roslyn\csc.exe.config
+C:\Users\Laura\source\repos\Proiect Prezentare Dec Ana\SocialBookmarking\SocialBookmarking\bin\roslyn\csc.rsp
+C:\Users\Laura\source\repos\Proiect Prezentare Dec Ana\SocialBookmarking\SocialBookmarking\bin\roslyn\csi.exe
+C:\Users\Laura\source\repos\Proiect Prezentare Dec Ana\SocialBookmarking\SocialBookmarking\bin\roslyn\csi.exe.config
+C:\Users\Laura\source\repos\Proiect Prezentare Dec Ana\SocialBookmarking\SocialBookmarking\bin\roslyn\csi.rsp
+C:\Users\Laura\source\repos\Proiect Prezentare Dec Ana\SocialBookmarking\SocialBookmarking\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Laura\source\repos\Proiect Prezentare Dec Ana\SocialBookmarking\SocialBookmarking\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Laura\source\repos\Proiect Prezentare Dec Ana\SocialBookmarking\SocialBookmarking\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Laura\source\repos\Proiect Prezentare Dec Ana\SocialBookmarking\SocialBookmarking\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Laura\source\repos\Proiect Prezentare Dec Ana\SocialBookmarking\SocialBookmarking\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Laura\source\repos\Proiect Prezentare Dec Ana\SocialBookmarking\SocialBookmarking\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Laura\source\repos\Proiect Prezentare Dec Ana\SocialBookmarking\SocialBookmarking\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Laura\source\repos\Proiect Prezentare Dec Ana\SocialBookmarking\SocialBookmarking\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Laura\source\repos\Proiect Prezentare Dec Ana\SocialBookmarking\SocialBookmarking\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Laura\source\repos\Proiect Prezentare Dec Ana\SocialBookmarking\SocialBookmarking\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Laura\source\repos\Proiect Prezentare Dec Ana\SocialBookmarking\SocialBookmarking\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Laura\source\repos\Proiect Prezentare Dec Ana\SocialBookmarking\SocialBookmarking\bin\roslyn\System.AppContext.dll
+C:\Users\Laura\source\repos\Proiect Prezentare Dec Ana\SocialBookmarking\SocialBookmarking\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Laura\source\repos\Proiect Prezentare Dec Ana\SocialBookmarking\SocialBookmarking\bin\roslyn\System.Console.dll
+C:\Users\Laura\source\repos\Proiect Prezentare Dec Ana\SocialBookmarking\SocialBookmarking\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Laura\source\repos\Proiect Prezentare Dec Ana\SocialBookmarking\SocialBookmarking\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Laura\source\repos\Proiect Prezentare Dec Ana\SocialBookmarking\SocialBookmarking\bin\roslyn\System.IO.Compression.dll
+C:\Users\Laura\source\repos\Proiect Prezentare Dec Ana\SocialBookmarking\SocialBookmarking\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Laura\source\repos\Proiect Prezentare Dec Ana\SocialBookmarking\SocialBookmarking\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Laura\source\repos\Proiect Prezentare Dec Ana\SocialBookmarking\SocialBookmarking\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Laura\source\repos\Proiect Prezentare Dec Ana\SocialBookmarking\SocialBookmarking\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Laura\source\repos\Proiect Prezentare Dec Ana\SocialBookmarking\SocialBookmarking\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Laura\source\repos\Proiect Prezentare Dec Ana\SocialBookmarking\SocialBookmarking\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Laura\source\repos\Proiect Prezentare Dec Ana\SocialBookmarking\SocialBookmarking\bin\roslyn\System.Security.Claims.dll
+C:\Users\Laura\source\repos\Proiect Prezentare Dec Ana\SocialBookmarking\SocialBookmarking\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Laura\source\repos\Proiect Prezentare Dec Ana\SocialBookmarking\SocialBookmarking\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Laura\source\repos\Proiect Prezentare Dec Ana\SocialBookmarking\SocialBookmarking\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Laura\source\repos\Proiect Prezentare Dec Ana\SocialBookmarking\SocialBookmarking\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Laura\source\repos\Proiect Prezentare Dec Ana\SocialBookmarking\SocialBookmarking\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Laura\source\repos\Proiect Prezentare Dec Ana\SocialBookmarking\SocialBookmarking\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Laura\source\repos\Proiect Prezentare Dec Ana\SocialBookmarking\SocialBookmarking\bin\roslyn\System.ValueTuple.dll
+C:\Users\Laura\source\repos\Proiect Prezentare Dec Ana\SocialBookmarking\SocialBookmarking\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Laura\source\repos\Proiect Prezentare Dec Ana\SocialBookmarking\SocialBookmarking\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Laura\source\repos\Proiect Prezentare Dec Ana\SocialBookmarking\SocialBookmarking\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Laura\source\repos\Proiect Prezentare Dec Ana\SocialBookmarking\SocialBookmarking\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Laura\source\repos\Proiect Prezentare Dec Ana\SocialBookmarking\SocialBookmarking\bin\roslyn\vbc.exe
+C:\Users\Laura\source\repos\Proiect Prezentare Dec Ana\SocialBookmarking\SocialBookmarking\bin\roslyn\vbc.exe.config
+C:\Users\Laura\source\repos\Proiect Prezentare Dec Ana\SocialBookmarking\SocialBookmarking\bin\roslyn\vbc.rsp
+C:\Users\Laura\source\repos\Proiect Prezentare Dec Ana\SocialBookmarking\SocialBookmarking\bin\roslyn\VBCSCompiler.exe
+C:\Users\Laura\source\repos\Proiect Prezentare Dec Ana\SocialBookmarking\SocialBookmarking\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Laura\source\repos\Proiect Prezentare Dec Ana\SocialBookmarking\SocialBookmarking\bin\Antlr3.Runtime.dll
+C:\Users\Laura\source\repos\Proiect Prezentare Dec Ana\SocialBookmarking\SocialBookmarking\bin\EntityFramework.dll
+C:\Users\Laura\source\repos\Proiect Prezentare Dec Ana\SocialBookmarking\SocialBookmarking\bin\EntityFramework.SqlServer.dll
+C:\Users\Laura\source\repos\Proiect Prezentare Dec Ana\SocialBookmarking\SocialBookmarking\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Laura\source\repos\Proiect Prezentare Dec Ana\SocialBookmarking\SocialBookmarking\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Laura\source\repos\Proiect Prezentare Dec Ana\SocialBookmarking\SocialBookmarking\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Laura\source\repos\Proiect Prezentare Dec Ana\SocialBookmarking\SocialBookmarking\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Laura\source\repos\Proiect Prezentare Dec Ana\SocialBookmarking\SocialBookmarking\bin\Microsoft.Owin.dll
+C:\Users\Laura\source\repos\Proiect Prezentare Dec Ana\SocialBookmarking\SocialBookmarking\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Laura\source\repos\Proiect Prezentare Dec Ana\SocialBookmarking\SocialBookmarking\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Laura\source\repos\Proiect Prezentare Dec Ana\SocialBookmarking\SocialBookmarking\bin\Microsoft.Owin.Security.dll
+C:\Users\Laura\source\repos\Proiect Prezentare Dec Ana\SocialBookmarking\SocialBookmarking\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Laura\source\repos\Proiect Prezentare Dec Ana\SocialBookmarking\SocialBookmarking\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Laura\source\repos\Proiect Prezentare Dec Ana\SocialBookmarking\SocialBookmarking\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Laura\source\repos\Proiect Prezentare Dec Ana\SocialBookmarking\SocialBookmarking\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Laura\source\repos\Proiect Prezentare Dec Ana\SocialBookmarking\SocialBookmarking\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Laura\source\repos\Proiect Prezentare Dec Ana\SocialBookmarking\SocialBookmarking\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Laura\source\repos\Proiect Prezentare Dec Ana\SocialBookmarking\SocialBookmarking\bin\Newtonsoft.Json.dll
+C:\Users\Laura\source\repos\Proiect Prezentare Dec Ana\SocialBookmarking\SocialBookmarking\bin\Owin.dll
+C:\Users\Laura\source\repos\Proiect Prezentare Dec Ana\SocialBookmarking\SocialBookmarking\bin\System.Web.Helpers.dll
+C:\Users\Laura\source\repos\Proiect Prezentare Dec Ana\SocialBookmarking\SocialBookmarking\bin\System.Web.Mvc.dll
+C:\Users\Laura\source\repos\Proiect Prezentare Dec Ana\SocialBookmarking\SocialBookmarking\bin\System.Web.Optimization.dll
+C:\Users\Laura\source\repos\Proiect Prezentare Dec Ana\SocialBookmarking\SocialBookmarking\bin\System.Web.Razor.dll
+C:\Users\Laura\source\repos\Proiect Prezentare Dec Ana\SocialBookmarking\SocialBookmarking\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Laura\source\repos\Proiect Prezentare Dec Ana\SocialBookmarking\SocialBookmarking\bin\System.Web.WebPages.dll
+C:\Users\Laura\source\repos\Proiect Prezentare Dec Ana\SocialBookmarking\SocialBookmarking\bin\System.Web.WebPages.Razor.dll
+C:\Users\Laura\source\repos\Proiect Prezentare Dec Ana\SocialBookmarking\SocialBookmarking\bin\WebGrease.dll
+C:\Users\Laura\source\repos\Proiect Prezentare Dec Ana\SocialBookmarking\SocialBookmarking\bin\System.Web.Helpers.xml
+C:\Users\Laura\source\repos\Proiect Prezentare Dec Ana\SocialBookmarking\SocialBookmarking\bin\System.Web.Mvc.xml
+C:\Users\Laura\source\repos\Proiect Prezentare Dec Ana\SocialBookmarking\SocialBookmarking\bin\System.Web.Optimization.xml
+C:\Users\Laura\source\repos\Proiect Prezentare Dec Ana\SocialBookmarking\SocialBookmarking\bin\System.Web.Razor.xml
+C:\Users\Laura\source\repos\Proiect Prezentare Dec Ana\SocialBookmarking\SocialBookmarking\bin\System.Web.WebPages.xml
+C:\Users\Laura\source\repos\Proiect Prezentare Dec Ana\SocialBookmarking\SocialBookmarking\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Laura\source\repos\Proiect Prezentare Dec Ana\SocialBookmarking\SocialBookmarking\bin\System.Web.WebPages.Razor.xml
+C:\Users\Laura\source\repos\Proiect Prezentare Dec Ana\SocialBookmarking\SocialBookmarking\bin\Newtonsoft.Json.xml
+C:\Users\Laura\source\repos\Proiect Prezentare Dec Ana\SocialBookmarking\SocialBookmarking\bin\Antlr3.Runtime.pdb
+C:\Users\Laura\source\repos\Proiect Prezentare Dec Ana\SocialBookmarking\SocialBookmarking\bin\EntityFramework.xml
+C:\Users\Laura\source\repos\Proiect Prezentare Dec Ana\SocialBookmarking\SocialBookmarking\bin\EntityFramework.SqlServer.xml
+C:\Users\Laura\source\repos\Proiect Prezentare Dec Ana\SocialBookmarking\SocialBookmarking\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Laura\source\repos\Proiect Prezentare Dec Ana\SocialBookmarking\SocialBookmarking\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Laura\source\repos\Proiect Prezentare Dec Ana\SocialBookmarking\SocialBookmarking\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Laura\source\repos\Proiect Prezentare Dec Ana\SocialBookmarking\SocialBookmarking\bin\Microsoft.Owin.xml
+C:\Users\Laura\source\repos\Proiect Prezentare Dec Ana\SocialBookmarking\SocialBookmarking\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Laura\source\repos\Proiect Prezentare Dec Ana\SocialBookmarking\SocialBookmarking\bin\Microsoft.Owin.Security.xml
+C:\Users\Laura\source\repos\Proiect Prezentare Dec Ana\SocialBookmarking\SocialBookmarking\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Laura\source\repos\Proiect Prezentare Dec Ana\SocialBookmarking\SocialBookmarking\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Laura\source\repos\Proiect Prezentare Dec Ana\SocialBookmarking\SocialBookmarking\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Laura\source\repos\Proiect Prezentare Dec Ana\SocialBookmarking\SocialBookmarking\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Laura\source\repos\Proiect Prezentare Dec Ana\SocialBookmarking\SocialBookmarking\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Laura\source\repos\Proiect Prezentare Dec Ana\SocialBookmarking\SocialBookmarking\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Laura\source\repos\Proiect Prezentare Dec Ana\SocialBookmarking\SocialBookmarking\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Laura\source\repos\Proiect Prezentare Dec Ana\SocialBookmarking\SocialBookmarking\obj\Debug\SocialBookmarking.csprojAssemblyReference.cache
+C:\Users\Laura\source\repos\Proiect Prezentare Dec Ana\SocialBookmarking\SocialBookmarking\obj\Debug\SocialBookmarking.Migrations.Initial.resources
+C:\Users\Laura\source\repos\Proiect Prezentare Dec Ana\SocialBookmarking\SocialBookmarking\obj\Debug\SocialBookmarking.csproj.GenerateResource.cache
+C:\Users\Laura\source\repos\Proiect Prezentare Dec Ana\SocialBookmarking\SocialBookmarking\obj\Debug\SocialBookmarking.csproj.CoreCompileInputs.cache
+C:\Users\Laura\source\repos\Proiect Prezentare Dec Ana\SocialBookmarking\SocialBookmarking\obj\Debug\SocialBookmarking.csproj.CopyComplete
+C:\Users\Laura\source\repos\Proiect Prezentare Dec Ana\SocialBookmarking\SocialBookmarking\obj\Debug\SocialBookmarking.dll
+C:\Users\Laura\source\repos\Proiect Prezentare Dec Ana\SocialBookmarking\SocialBookmarking\obj\Debug\SocialBookmarking.pdb
+d:\Users\Comorasu\Desktop\Ala cu profil\SocialBookmarking\SocialBookmarking\bin\SocialBookmarking.dll.config
+d:\Users\Comorasu\Desktop\Ala cu profil\SocialBookmarking\SocialBookmarking\bin\SocialBookmarking.dll
+d:\Users\Comorasu\Desktop\Ala cu profil\SocialBookmarking\SocialBookmarking\bin\SocialBookmarking.pdb
+d:\Users\Comorasu\Desktop\Ala cu profil\SocialBookmarking\SocialBookmarking\bin\roslyn\csc.exe
+d:\Users\Comorasu\Desktop\Ala cu profil\SocialBookmarking\SocialBookmarking\bin\roslyn\csc.exe.config
+d:\Users\Comorasu\Desktop\Ala cu profil\SocialBookmarking\SocialBookmarking\bin\roslyn\csc.rsp
+d:\Users\Comorasu\Desktop\Ala cu profil\SocialBookmarking\SocialBookmarking\bin\roslyn\csi.exe
+d:\Users\Comorasu\Desktop\Ala cu profil\SocialBookmarking\SocialBookmarking\bin\roslyn\csi.exe.config
+d:\Users\Comorasu\Desktop\Ala cu profil\SocialBookmarking\SocialBookmarking\bin\roslyn\csi.rsp
+d:\Users\Comorasu\Desktop\Ala cu profil\SocialBookmarking\SocialBookmarking\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+d:\Users\Comorasu\Desktop\Ala cu profil\SocialBookmarking\SocialBookmarking\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+d:\Users\Comorasu\Desktop\Ala cu profil\SocialBookmarking\SocialBookmarking\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+d:\Users\Comorasu\Desktop\Ala cu profil\SocialBookmarking\SocialBookmarking\bin\roslyn\Microsoft.CodeAnalysis.dll
+d:\Users\Comorasu\Desktop\Ala cu profil\SocialBookmarking\SocialBookmarking\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+d:\Users\Comorasu\Desktop\Ala cu profil\SocialBookmarking\SocialBookmarking\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+d:\Users\Comorasu\Desktop\Ala cu profil\SocialBookmarking\SocialBookmarking\bin\roslyn\Microsoft.CSharp.Core.targets
+d:\Users\Comorasu\Desktop\Ala cu profil\SocialBookmarking\SocialBookmarking\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+d:\Users\Comorasu\Desktop\Ala cu profil\SocialBookmarking\SocialBookmarking\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+d:\Users\Comorasu\Desktop\Ala cu profil\SocialBookmarking\SocialBookmarking\bin\roslyn\Microsoft.Managed.Core.targets
+d:\Users\Comorasu\Desktop\Ala cu profil\SocialBookmarking\SocialBookmarking\bin\roslyn\Microsoft.VisualBasic.Core.targets
+d:\Users\Comorasu\Desktop\Ala cu profil\SocialBookmarking\SocialBookmarking\bin\roslyn\System.AppContext.dll
+d:\Users\Comorasu\Desktop\Ala cu profil\SocialBookmarking\SocialBookmarking\bin\roslyn\System.Collections.Immutable.dll
+d:\Users\Comorasu\Desktop\Ala cu profil\SocialBookmarking\SocialBookmarking\bin\roslyn\System.Console.dll
+d:\Users\Comorasu\Desktop\Ala cu profil\SocialBookmarking\SocialBookmarking\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+d:\Users\Comorasu\Desktop\Ala cu profil\SocialBookmarking\SocialBookmarking\bin\roslyn\System.Diagnostics.StackTrace.dll
+d:\Users\Comorasu\Desktop\Ala cu profil\SocialBookmarking\SocialBookmarking\bin\roslyn\System.IO.Compression.dll
+d:\Users\Comorasu\Desktop\Ala cu profil\SocialBookmarking\SocialBookmarking\bin\roslyn\System.IO.FileSystem.dll
+d:\Users\Comorasu\Desktop\Ala cu profil\SocialBookmarking\SocialBookmarking\bin\roslyn\System.IO.FileSystem.Primitives.dll
+d:\Users\Comorasu\Desktop\Ala cu profil\SocialBookmarking\SocialBookmarking\bin\roslyn\System.IO.Pipes.AccessControl.dll
+d:\Users\Comorasu\Desktop\Ala cu profil\SocialBookmarking\SocialBookmarking\bin\roslyn\System.IO.Pipes.dll
+d:\Users\Comorasu\Desktop\Ala cu profil\SocialBookmarking\SocialBookmarking\bin\roslyn\System.Reflection.Metadata.dll
+d:\Users\Comorasu\Desktop\Ala cu profil\SocialBookmarking\SocialBookmarking\bin\roslyn\System.Security.AccessControl.dll
+d:\Users\Comorasu\Desktop\Ala cu profil\SocialBookmarking\SocialBookmarking\bin\roslyn\System.Security.Claims.dll
+d:\Users\Comorasu\Desktop\Ala cu profil\SocialBookmarking\SocialBookmarking\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+d:\Users\Comorasu\Desktop\Ala cu profil\SocialBookmarking\SocialBookmarking\bin\roslyn\System.Security.Cryptography.Encoding.dll
+d:\Users\Comorasu\Desktop\Ala cu profil\SocialBookmarking\SocialBookmarking\bin\roslyn\System.Security.Cryptography.Primitives.dll
+d:\Users\Comorasu\Desktop\Ala cu profil\SocialBookmarking\SocialBookmarking\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+d:\Users\Comorasu\Desktop\Ala cu profil\SocialBookmarking\SocialBookmarking\bin\roslyn\System.Security.Principal.Windows.dll
+d:\Users\Comorasu\Desktop\Ala cu profil\SocialBookmarking\SocialBookmarking\bin\roslyn\System.Text.Encoding.CodePages.dll
+d:\Users\Comorasu\Desktop\Ala cu profil\SocialBookmarking\SocialBookmarking\bin\roslyn\System.ValueTuple.dll
+d:\Users\Comorasu\Desktop\Ala cu profil\SocialBookmarking\SocialBookmarking\bin\roslyn\System.Xml.ReaderWriter.dll
+d:\Users\Comorasu\Desktop\Ala cu profil\SocialBookmarking\SocialBookmarking\bin\roslyn\System.Xml.XmlDocument.dll
+d:\Users\Comorasu\Desktop\Ala cu profil\SocialBookmarking\SocialBookmarking\bin\roslyn\System.Xml.XPath.dll
+d:\Users\Comorasu\Desktop\Ala cu profil\SocialBookmarking\SocialBookmarking\bin\roslyn\System.Xml.XPath.XDocument.dll
+d:\Users\Comorasu\Desktop\Ala cu profil\SocialBookmarking\SocialBookmarking\bin\roslyn\vbc.exe
+d:\Users\Comorasu\Desktop\Ala cu profil\SocialBookmarking\SocialBookmarking\bin\roslyn\vbc.exe.config
+d:\Users\Comorasu\Desktop\Ala cu profil\SocialBookmarking\SocialBookmarking\bin\roslyn\vbc.rsp
+d:\Users\Comorasu\Desktop\Ala cu profil\SocialBookmarking\SocialBookmarking\bin\roslyn\VBCSCompiler.exe
+d:\Users\Comorasu\Desktop\Ala cu profil\SocialBookmarking\SocialBookmarking\bin\roslyn\VBCSCompiler.exe.config
+d:\Users\Comorasu\Desktop\Ala cu profil\SocialBookmarking\SocialBookmarking\bin\Antlr3.Runtime.dll
+d:\Users\Comorasu\Desktop\Ala cu profil\SocialBookmarking\SocialBookmarking\bin\EntityFramework.dll
+d:\Users\Comorasu\Desktop\Ala cu profil\SocialBookmarking\SocialBookmarking\bin\EntityFramework.SqlServer.dll
+d:\Users\Comorasu\Desktop\Ala cu profil\SocialBookmarking\SocialBookmarking\bin\Microsoft.AspNet.Identity.Core.dll
+d:\Users\Comorasu\Desktop\Ala cu profil\SocialBookmarking\SocialBookmarking\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+d:\Users\Comorasu\Desktop\Ala cu profil\SocialBookmarking\SocialBookmarking\bin\Microsoft.AspNet.Identity.Owin.dll
+d:\Users\Comorasu\Desktop\Ala cu profil\SocialBookmarking\SocialBookmarking\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+d:\Users\Comorasu\Desktop\Ala cu profil\SocialBookmarking\SocialBookmarking\bin\Microsoft.Owin.dll
+d:\Users\Comorasu\Desktop\Ala cu profil\SocialBookmarking\SocialBookmarking\bin\Microsoft.Owin.Host.SystemWeb.dll
+d:\Users\Comorasu\Desktop\Ala cu profil\SocialBookmarking\SocialBookmarking\bin\Microsoft.Owin.Security.Cookies.dll
+d:\Users\Comorasu\Desktop\Ala cu profil\SocialBookmarking\SocialBookmarking\bin\Microsoft.Owin.Security.dll
+d:\Users\Comorasu\Desktop\Ala cu profil\SocialBookmarking\SocialBookmarking\bin\Microsoft.Owin.Security.Facebook.dll
+d:\Users\Comorasu\Desktop\Ala cu profil\SocialBookmarking\SocialBookmarking\bin\Microsoft.Owin.Security.Google.dll
+d:\Users\Comorasu\Desktop\Ala cu profil\SocialBookmarking\SocialBookmarking\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+d:\Users\Comorasu\Desktop\Ala cu profil\SocialBookmarking\SocialBookmarking\bin\Microsoft.Owin.Security.OAuth.dll
+d:\Users\Comorasu\Desktop\Ala cu profil\SocialBookmarking\SocialBookmarking\bin\Microsoft.Owin.Security.Twitter.dll
+d:\Users\Comorasu\Desktop\Ala cu profil\SocialBookmarking\SocialBookmarking\bin\Microsoft.Web.Infrastructure.dll
+d:\Users\Comorasu\Desktop\Ala cu profil\SocialBookmarking\SocialBookmarking\bin\Newtonsoft.Json.dll
+d:\Users\Comorasu\Desktop\Ala cu profil\SocialBookmarking\SocialBookmarking\bin\Owin.dll
+d:\Users\Comorasu\Desktop\Ala cu profil\SocialBookmarking\SocialBookmarking\bin\System.Web.Helpers.dll
+d:\Users\Comorasu\Desktop\Ala cu profil\SocialBookmarking\SocialBookmarking\bin\System.Web.Mvc.dll
+d:\Users\Comorasu\Desktop\Ala cu profil\SocialBookmarking\SocialBookmarking\bin\System.Web.Optimization.dll
+d:\Users\Comorasu\Desktop\Ala cu profil\SocialBookmarking\SocialBookmarking\bin\System.Web.Razor.dll
+d:\Users\Comorasu\Desktop\Ala cu profil\SocialBookmarking\SocialBookmarking\bin\System.Web.WebPages.Deployment.dll
+d:\Users\Comorasu\Desktop\Ala cu profil\SocialBookmarking\SocialBookmarking\bin\System.Web.WebPages.dll
+d:\Users\Comorasu\Desktop\Ala cu profil\SocialBookmarking\SocialBookmarking\bin\System.Web.WebPages.Razor.dll
+d:\Users\Comorasu\Desktop\Ala cu profil\SocialBookmarking\SocialBookmarking\bin\WebGrease.dll
+d:\Users\Comorasu\Desktop\Ala cu profil\SocialBookmarking\SocialBookmarking\bin\System.Web.Helpers.xml
+d:\Users\Comorasu\Desktop\Ala cu profil\SocialBookmarking\SocialBookmarking\bin\System.Web.Mvc.xml
+d:\Users\Comorasu\Desktop\Ala cu profil\SocialBookmarking\SocialBookmarking\bin\System.Web.Optimization.xml
+d:\Users\Comorasu\Desktop\Ala cu profil\SocialBookmarking\SocialBookmarking\bin\System.Web.Razor.xml
+d:\Users\Comorasu\Desktop\Ala cu profil\SocialBookmarking\SocialBookmarking\bin\System.Web.WebPages.xml
+d:\Users\Comorasu\Desktop\Ala cu profil\SocialBookmarking\SocialBookmarking\bin\System.Web.WebPages.Deployment.xml
+d:\Users\Comorasu\Desktop\Ala cu profil\SocialBookmarking\SocialBookmarking\bin\System.Web.WebPages.Razor.xml
+d:\Users\Comorasu\Desktop\Ala cu profil\SocialBookmarking\SocialBookmarking\bin\Newtonsoft.Json.xml
+d:\Users\Comorasu\Desktop\Ala cu profil\SocialBookmarking\SocialBookmarking\bin\Antlr3.Runtime.pdb
+d:\Users\Comorasu\Desktop\Ala cu profil\SocialBookmarking\SocialBookmarking\bin\EntityFramework.xml
+d:\Users\Comorasu\Desktop\Ala cu profil\SocialBookmarking\SocialBookmarking\bin\EntityFramework.SqlServer.xml
+d:\Users\Comorasu\Desktop\Ala cu profil\SocialBookmarking\SocialBookmarking\bin\Microsoft.AspNet.Identity.Core.xml
+d:\Users\Comorasu\Desktop\Ala cu profil\SocialBookmarking\SocialBookmarking\bin\Microsoft.AspNet.Identity.Owin.xml
+d:\Users\Comorasu\Desktop\Ala cu profil\SocialBookmarking\SocialBookmarking\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+d:\Users\Comorasu\Desktop\Ala cu profil\SocialBookmarking\SocialBookmarking\bin\Microsoft.Owin.xml
+d:\Users\Comorasu\Desktop\Ala cu profil\SocialBookmarking\SocialBookmarking\bin\Microsoft.Owin.Host.SystemWeb.xml
+d:\Users\Comorasu\Desktop\Ala cu profil\SocialBookmarking\SocialBookmarking\bin\Microsoft.Owin.Security.xml
+d:\Users\Comorasu\Desktop\Ala cu profil\SocialBookmarking\SocialBookmarking\bin\Microsoft.Owin.Security.Facebook.xml
+d:\Users\Comorasu\Desktop\Ala cu profil\SocialBookmarking\SocialBookmarking\bin\Microsoft.Owin.Security.Cookies.xml
+d:\Users\Comorasu\Desktop\Ala cu profil\SocialBookmarking\SocialBookmarking\bin\Microsoft.Owin.Security.Google.xml
+d:\Users\Comorasu\Desktop\Ala cu profil\SocialBookmarking\SocialBookmarking\bin\Microsoft.Owin.Security.Twitter.xml
+d:\Users\Comorasu\Desktop\Ala cu profil\SocialBookmarking\SocialBookmarking\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+d:\Users\Comorasu\Desktop\Ala cu profil\SocialBookmarking\SocialBookmarking\bin\Microsoft.Owin.Security.OAuth.xml
+d:\Users\Comorasu\Desktop\Ala cu profil\SocialBookmarking\SocialBookmarking\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+d:\Users\Comorasu\Desktop\Ala cu profil\SocialBookmarking\SocialBookmarking\obj\Debug\SocialBookmarking.csprojAssemblyReference.cache
+d:\Users\Comorasu\Desktop\Ala cu profil\SocialBookmarking\SocialBookmarking\obj\Debug\SocialBookmarking.Migrations.Initial.resources
+d:\Users\Comorasu\Desktop\Ala cu profil\SocialBookmarking\SocialBookmarking\obj\Debug\SocialBookmarking.csproj.GenerateResource.cache
+d:\Users\Comorasu\Desktop\Ala cu profil\SocialBookmarking\SocialBookmarking\obj\Debug\SocialBookmarking.csproj.CoreCompileInputs.cache
+d:\Users\Comorasu\Desktop\Ala cu profil\SocialBookmarking\SocialBookmarking\obj\Debug\SocialBookmarking.csproj.CopyComplete
+d:\Users\Comorasu\Desktop\Ala cu profil\SocialBookmarking\SocialBookmarking\obj\Debug\SocialBookmarking.dll
+d:\Users\Comorasu\Desktop\Ala cu profil\SocialBookmarking\SocialBookmarking\obj\Debug\SocialBookmarking.pdb
+d:\Users\Comorasu\Desktop\Final\SocialBookmarking\SocialBookmarking\bin\SocialBookmarking.dll.config
+d:\Users\Comorasu\Desktop\Final\SocialBookmarking\SocialBookmarking\bin\SocialBookmarking.dll
+d:\Users\Comorasu\Desktop\Final\SocialBookmarking\SocialBookmarking\bin\SocialBookmarking.pdb
+d:\Users\Comorasu\Desktop\Final\SocialBookmarking\SocialBookmarking\bin\roslyn\csc.exe
+d:\Users\Comorasu\Desktop\Final\SocialBookmarking\SocialBookmarking\bin\roslyn\csc.exe.config
+d:\Users\Comorasu\Desktop\Final\SocialBookmarking\SocialBookmarking\bin\roslyn\csc.rsp
+d:\Users\Comorasu\Desktop\Final\SocialBookmarking\SocialBookmarking\bin\roslyn\csi.exe
+d:\Users\Comorasu\Desktop\Final\SocialBookmarking\SocialBookmarking\bin\roslyn\csi.exe.config
+d:\Users\Comorasu\Desktop\Final\SocialBookmarking\SocialBookmarking\bin\roslyn\csi.rsp
+d:\Users\Comorasu\Desktop\Final\SocialBookmarking\SocialBookmarking\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+d:\Users\Comorasu\Desktop\Final\SocialBookmarking\SocialBookmarking\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+d:\Users\Comorasu\Desktop\Final\SocialBookmarking\SocialBookmarking\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+d:\Users\Comorasu\Desktop\Final\SocialBookmarking\SocialBookmarking\bin\roslyn\Microsoft.CodeAnalysis.dll
+d:\Users\Comorasu\Desktop\Final\SocialBookmarking\SocialBookmarking\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+d:\Users\Comorasu\Desktop\Final\SocialBookmarking\SocialBookmarking\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+d:\Users\Comorasu\Desktop\Final\SocialBookmarking\SocialBookmarking\bin\roslyn\Microsoft.CSharp.Core.targets
+d:\Users\Comorasu\Desktop\Final\SocialBookmarking\SocialBookmarking\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+d:\Users\Comorasu\Desktop\Final\SocialBookmarking\SocialBookmarking\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+d:\Users\Comorasu\Desktop\Final\SocialBookmarking\SocialBookmarking\bin\roslyn\Microsoft.Managed.Core.targets
+d:\Users\Comorasu\Desktop\Final\SocialBookmarking\SocialBookmarking\bin\roslyn\Microsoft.VisualBasic.Core.targets
+d:\Users\Comorasu\Desktop\Final\SocialBookmarking\SocialBookmarking\bin\roslyn\System.AppContext.dll
+d:\Users\Comorasu\Desktop\Final\SocialBookmarking\SocialBookmarking\bin\roslyn\System.Collections.Immutable.dll
+d:\Users\Comorasu\Desktop\Final\SocialBookmarking\SocialBookmarking\bin\roslyn\System.Console.dll
+d:\Users\Comorasu\Desktop\Final\SocialBookmarking\SocialBookmarking\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+d:\Users\Comorasu\Desktop\Final\SocialBookmarking\SocialBookmarking\bin\roslyn\System.Diagnostics.StackTrace.dll
+d:\Users\Comorasu\Desktop\Final\SocialBookmarking\SocialBookmarking\bin\roslyn\System.IO.Compression.dll
+d:\Users\Comorasu\Desktop\Final\SocialBookmarking\SocialBookmarking\bin\roslyn\System.IO.FileSystem.dll
+d:\Users\Comorasu\Desktop\Final\SocialBookmarking\SocialBookmarking\bin\roslyn\System.IO.FileSystem.Primitives.dll
+d:\Users\Comorasu\Desktop\Final\SocialBookmarking\SocialBookmarking\bin\roslyn\System.IO.Pipes.AccessControl.dll
+d:\Users\Comorasu\Desktop\Final\SocialBookmarking\SocialBookmarking\bin\roslyn\System.IO.Pipes.dll
+d:\Users\Comorasu\Desktop\Final\SocialBookmarking\SocialBookmarking\bin\roslyn\System.Reflection.Metadata.dll
+d:\Users\Comorasu\Desktop\Final\SocialBookmarking\SocialBookmarking\bin\roslyn\System.Security.AccessControl.dll
+d:\Users\Comorasu\Desktop\Final\SocialBookmarking\SocialBookmarking\bin\roslyn\System.Security.Claims.dll
+d:\Users\Comorasu\Desktop\Final\SocialBookmarking\SocialBookmarking\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+d:\Users\Comorasu\Desktop\Final\SocialBookmarking\SocialBookmarking\bin\roslyn\System.Security.Cryptography.Encoding.dll
+d:\Users\Comorasu\Desktop\Final\SocialBookmarking\SocialBookmarking\bin\roslyn\System.Security.Cryptography.Primitives.dll
+d:\Users\Comorasu\Desktop\Final\SocialBookmarking\SocialBookmarking\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+d:\Users\Comorasu\Desktop\Final\SocialBookmarking\SocialBookmarking\bin\roslyn\System.Security.Principal.Windows.dll
+d:\Users\Comorasu\Desktop\Final\SocialBookmarking\SocialBookmarking\bin\roslyn\System.Text.Encoding.CodePages.dll
+d:\Users\Comorasu\Desktop\Final\SocialBookmarking\SocialBookmarking\bin\roslyn\System.ValueTuple.dll
+d:\Users\Comorasu\Desktop\Final\SocialBookmarking\SocialBookmarking\bin\roslyn\System.Xml.ReaderWriter.dll
+d:\Users\Comorasu\Desktop\Final\SocialBookmarking\SocialBookmarking\bin\roslyn\System.Xml.XmlDocument.dll
+d:\Users\Comorasu\Desktop\Final\SocialBookmarking\SocialBookmarking\bin\roslyn\System.Xml.XPath.dll
+d:\Users\Comorasu\Desktop\Final\SocialBookmarking\SocialBookmarking\bin\roslyn\System.Xml.XPath.XDocument.dll
+d:\Users\Comorasu\Desktop\Final\SocialBookmarking\SocialBookmarking\bin\roslyn\vbc.exe
+d:\Users\Comorasu\Desktop\Final\SocialBookmarking\SocialBookmarking\bin\roslyn\vbc.exe.config
+d:\Users\Comorasu\Desktop\Final\SocialBookmarking\SocialBookmarking\bin\roslyn\vbc.rsp
+d:\Users\Comorasu\Desktop\Final\SocialBookmarking\SocialBookmarking\bin\roslyn\VBCSCompiler.exe
+d:\Users\Comorasu\Desktop\Final\SocialBookmarking\SocialBookmarking\bin\roslyn\VBCSCompiler.exe.config
+d:\Users\Comorasu\Desktop\Final\SocialBookmarking\SocialBookmarking\bin\Antlr3.Runtime.dll
+d:\Users\Comorasu\Desktop\Final\SocialBookmarking\SocialBookmarking\bin\EntityFramework.dll
+d:\Users\Comorasu\Desktop\Final\SocialBookmarking\SocialBookmarking\bin\EntityFramework.SqlServer.dll
+d:\Users\Comorasu\Desktop\Final\SocialBookmarking\SocialBookmarking\bin\Microsoft.AspNet.Identity.Core.dll
+d:\Users\Comorasu\Desktop\Final\SocialBookmarking\SocialBookmarking\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+d:\Users\Comorasu\Desktop\Final\SocialBookmarking\SocialBookmarking\bin\Microsoft.AspNet.Identity.Owin.dll
+d:\Users\Comorasu\Desktop\Final\SocialBookmarking\SocialBookmarking\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+d:\Users\Comorasu\Desktop\Final\SocialBookmarking\SocialBookmarking\bin\Microsoft.Owin.dll
+d:\Users\Comorasu\Desktop\Final\SocialBookmarking\SocialBookmarking\bin\Microsoft.Owin.Host.SystemWeb.dll
+d:\Users\Comorasu\Desktop\Final\SocialBookmarking\SocialBookmarking\bin\Microsoft.Owin.Security.Cookies.dll
+d:\Users\Comorasu\Desktop\Final\SocialBookmarking\SocialBookmarking\bin\Microsoft.Owin.Security.dll
+d:\Users\Comorasu\Desktop\Final\SocialBookmarking\SocialBookmarking\bin\Microsoft.Owin.Security.Facebook.dll
+d:\Users\Comorasu\Desktop\Final\SocialBookmarking\SocialBookmarking\bin\Microsoft.Owin.Security.Google.dll
+d:\Users\Comorasu\Desktop\Final\SocialBookmarking\SocialBookmarking\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+d:\Users\Comorasu\Desktop\Final\SocialBookmarking\SocialBookmarking\bin\Microsoft.Owin.Security.OAuth.dll
+d:\Users\Comorasu\Desktop\Final\SocialBookmarking\SocialBookmarking\bin\Microsoft.Owin.Security.Twitter.dll
+d:\Users\Comorasu\Desktop\Final\SocialBookmarking\SocialBookmarking\bin\Microsoft.Web.Infrastructure.dll
+d:\Users\Comorasu\Desktop\Final\SocialBookmarking\SocialBookmarking\bin\Newtonsoft.Json.dll
+d:\Users\Comorasu\Desktop\Final\SocialBookmarking\SocialBookmarking\bin\Owin.dll
+d:\Users\Comorasu\Desktop\Final\SocialBookmarking\SocialBookmarking\bin\System.Web.Helpers.dll
+d:\Users\Comorasu\Desktop\Final\SocialBookmarking\SocialBookmarking\bin\System.Web.Mvc.dll
+d:\Users\Comorasu\Desktop\Final\SocialBookmarking\SocialBookmarking\bin\System.Web.Optimization.dll
+d:\Users\Comorasu\Desktop\Final\SocialBookmarking\SocialBookmarking\bin\System.Web.Razor.dll
+d:\Users\Comorasu\Desktop\Final\SocialBookmarking\SocialBookmarking\bin\System.Web.WebPages.Deployment.dll
+d:\Users\Comorasu\Desktop\Final\SocialBookmarking\SocialBookmarking\bin\System.Web.WebPages.dll
+d:\Users\Comorasu\Desktop\Final\SocialBookmarking\SocialBookmarking\bin\System.Web.WebPages.Razor.dll
+d:\Users\Comorasu\Desktop\Final\SocialBookmarking\SocialBookmarking\bin\WebGrease.dll
+d:\Users\Comorasu\Desktop\Final\SocialBookmarking\SocialBookmarking\bin\System.Web.Helpers.xml
+d:\Users\Comorasu\Desktop\Final\SocialBookmarking\SocialBookmarking\bin\System.Web.Mvc.xml
+d:\Users\Comorasu\Desktop\Final\SocialBookmarking\SocialBookmarking\bin\System.Web.Optimization.xml
+d:\Users\Comorasu\Desktop\Final\SocialBookmarking\SocialBookmarking\bin\System.Web.Razor.xml
+d:\Users\Comorasu\Desktop\Final\SocialBookmarking\SocialBookmarking\bin\System.Web.WebPages.xml
+d:\Users\Comorasu\Desktop\Final\SocialBookmarking\SocialBookmarking\bin\System.Web.WebPages.Deployment.xml
+d:\Users\Comorasu\Desktop\Final\SocialBookmarking\SocialBookmarking\bin\System.Web.WebPages.Razor.xml
+d:\Users\Comorasu\Desktop\Final\SocialBookmarking\SocialBookmarking\bin\Newtonsoft.Json.xml
+d:\Users\Comorasu\Desktop\Final\SocialBookmarking\SocialBookmarking\bin\Antlr3.Runtime.pdb
+d:\Users\Comorasu\Desktop\Final\SocialBookmarking\SocialBookmarking\bin\EntityFramework.xml
+d:\Users\Comorasu\Desktop\Final\SocialBookmarking\SocialBookmarking\bin\EntityFramework.SqlServer.xml
+d:\Users\Comorasu\Desktop\Final\SocialBookmarking\SocialBookmarking\bin\Microsoft.AspNet.Identity.Core.xml
+d:\Users\Comorasu\Desktop\Final\SocialBookmarking\SocialBookmarking\bin\Microsoft.AspNet.Identity.Owin.xml
+d:\Users\Comorasu\Desktop\Final\SocialBookmarking\SocialBookmarking\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+d:\Users\Comorasu\Desktop\Final\SocialBookmarking\SocialBookmarking\bin\Microsoft.Owin.xml
+d:\Users\Comorasu\Desktop\Final\SocialBookmarking\SocialBookmarking\bin\Microsoft.Owin.Host.SystemWeb.xml
+d:\Users\Comorasu\Desktop\Final\SocialBookmarking\SocialBookmarking\bin\Microsoft.Owin.Security.xml
+d:\Users\Comorasu\Desktop\Final\SocialBookmarking\SocialBookmarking\bin\Microsoft.Owin.Security.Facebook.xml
+d:\Users\Comorasu\Desktop\Final\SocialBookmarking\SocialBookmarking\bin\Microsoft.Owin.Security.Cookies.xml
+d:\Users\Comorasu\Desktop\Final\SocialBookmarking\SocialBookmarking\bin\Microsoft.Owin.Security.Google.xml
+d:\Users\Comorasu\Desktop\Final\SocialBookmarking\SocialBookmarking\bin\Microsoft.Owin.Security.Twitter.xml
+d:\Users\Comorasu\Desktop\Final\SocialBookmarking\SocialBookmarking\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+d:\Users\Comorasu\Desktop\Final\SocialBookmarking\SocialBookmarking\bin\Microsoft.Owin.Security.OAuth.xml
+d:\Users\Comorasu\Desktop\Final\SocialBookmarking\SocialBookmarking\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+d:\Users\Comorasu\Desktop\Final\SocialBookmarking\SocialBookmarking\obj\Debug\SocialBookmarking.csprojAssemblyReference.cache
+d:\Users\Comorasu\Desktop\Final\SocialBookmarking\SocialBookmarking\obj\Debug\SocialBookmarking.Migrations.Initial.resources
+d:\Users\Comorasu\Desktop\Final\SocialBookmarking\SocialBookmarking\obj\Debug\SocialBookmarking.csproj.GenerateResource.cache
+d:\Users\Comorasu\Desktop\Final\SocialBookmarking\SocialBookmarking\obj\Debug\SocialBookmarking.csproj.CoreCompileInputs.cache
+d:\Users\Comorasu\Desktop\Final\SocialBookmarking\SocialBookmarking\obj\Debug\SocialBookmarking.csproj.CopyComplete
+d:\Users\Comorasu\Desktop\Final\SocialBookmarking\SocialBookmarking\obj\Debug\SocialBookmarking.dll
+d:\Users\Comorasu\Desktop\Final\SocialBookmarking\SocialBookmarking\obj\Debug\SocialBookmarking.pdb

@@ -1,0 +1,52 @@
+﻿@model SocialBookmarking.Models.Bookmark
+
+<br />
+<ol class="breadcrumb">
+    <li class="breadcrumb-item"><a href="/">Home</a></li>
+    <li class="breadcrumb-item"><a href="/Bookmarks/Index">Bookmarks</a></li>
+    <li class="breadcrumb-item active">Edit Bookmark</li>
+</ol>
+
+<div class="card bg-light mb-3" style="max-width: 70rem;">
+    <h3 class="card-header">Edit Bookmark</h3>
+    <div class="card-body">
+        @using (Html.BeginForm(actionName: "Edit", controllerName: "Bookmarks"))
+        {
+            @Html.HttpMethodOverride(HttpVerbs.Put)
+
+            @Html.ValidationSummary(false, "", new { @class = "text-danger" })
+
+            @Html.HiddenFor(m => m.BookmarkId)
+            <br />
+            @Html.Label("BookmarkTitle", "Titlu Bookmark")
+            <br />
+            @Html.EditorFor(m => m.BookmarkTitle, new { htmlAttributes = new { @class = "form-control" } })
+            @Html.ValidationMessageFor(m => m.BookmarkTitle, "", new { @class = "text-danger" })
+            <br /><br />
+
+            @Html.Label("BookmarkDesc", "Descriere Bookmark")
+            <br />
+            @Html.EditorFor(m => m.BookmarkDesc, new { htmlAttributes = new { @class = "form-control" } })
+            @Html.ValidationMessageFor(m => m.BookmarkDesc, "", new { @class = "text-danger" })
+            <br /><br />
+
+            @Html.Label("BookmarkTags", "Tags")
+            <br />
+            @Html.EditorFor(m => m.BookmarkTags, new { htmlAttributes = new { @class = "form-control" } })
+
+            @Html.HiddenFor(m => m.BookmarkDate)
+            <br />
+
+            <label>Selectati categoria</label>
+            @Html.DropDownListFor(m => m.CategoryId,
+                new SelectList(Model.Categ, "Value", "Text"),
+                "Selectati categoria", new { @class = "form-control" })
+            @Html.ValidationMessageFor(m => m.CategoryId, "", new { @class = "text-danger" })
+            <br />
+            <div class="modal-footer">
+                <button class="btn btn-success" type="submit">Modifica bookmark</button>
+            </div>
+        }
+
+    </div>
+</div>

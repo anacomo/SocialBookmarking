@@ -1,0 +1,36 @@
+﻿@model SocialBookmarking.Models.Category
+@{
+    ViewBag.Title = "Editare categorie";
+}
+
+<br />
+<ol class="breadcrumb">
+    <li class="breadcrumb-item"><a href="/">Home</a></li>
+    <li class="breadcrumb-item"><a href="/Bookmarks/Index">Bookmarks</a></li>
+    <li class="breadcrumb-item"><a href="/Categories/Index">Vizualizare Bookmark</a></li>
+    <li class="breadcrumb-item active">Editare Categorie</li>
+</ol>
+
+<div class="card bg-light mb-3" style="max-width: 70rem;">
+    <h3 class="card-header">@ViewBag.Title</h3>
+    <div class="card-body">
+        <p class="card-text">Aici puteti edita categoria.</p>
+        <form method="post" action="/Categories/Edit/@Model.CategoryId">
+            @Html.HttpMethodOverride(HttpVerbs.Put)
+            <br />
+            @Html.HiddenFor(m => m.CategoryId)
+
+            @Html.Label("CategoryName", "Numele Categoriei", new { @class = "col-form-label" })
+            <br />
+            @Html.EditorFor(x => x.CategoryName, new { htmlAttributes = new { @class = "form-control" } })
+            @Html.ValidationMessageFor(m => m.CategoryName, "", new { @class = "text-danger " })
+            <br />
+            <div class="modal-footer">
+                <button class="btn btn-warning" type="submit">Editeaza categoria</button>
+            </div>
+        </form>
+    </div>
+</div>
+
+
+

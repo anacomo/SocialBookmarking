@@ -1,0 +1,31 @@
+﻿@model SocialBookmarking.Models.Comment
+@{
+    ViewBag.Title = "Editare Comentariu";
+}
+
+<br />
+<ol class="breadcrumb">
+    <li class="breadcrumb-item"><a href="/">Home</a></li>
+    <li class="breadcrumb-item"><a href="/Bookmarks/Index">Bookmarks</a></li>
+    <li class="breadcrumb-item active">Editare Comentariu</li>
+</ol>
+
+
+<div class="card bg-light mb-3" style="max-width: 70rem;">
+    <h3 class="card-header">@ViewBag.Title</h3>
+    <div class="card-body">
+        <form method="post" action="/Comments/Edit/@Model.CommentId">
+            @Html.HttpMethodOverride(HttpVerbs.Put)
+            @Html.HiddenFor(m => m.CommentId)
+
+            @Html.Label("CommentContent", "Continutul comentariului:")
+            <br />
+            @Html.EditorFor(m => m.CommentContent, new { htmlAttributes = new { @class = "form-control" } })
+            @Html.ValidationMessageFor(m => m.CommentContent, null, new { @class = "text-danger " })
+            <br />
+            <div class="modal-footer">
+                <button class="btn btn-warning" type="submit">Editeaza comentariul</button>
+            </div>
+        </form>
+    </div>
+</div>
