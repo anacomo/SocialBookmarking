@@ -2,7 +2,7 @@
 
 ## Authors : Ana-Maria Comorasu, Laura-Maria Tender
 
-* Technologies: ASP.NET MVC 5, Bootstrap
+* Technologies: ASP.NET MVC 5, Bootstrap, Entity Framework
 
 Tasks:
 - [x] 3 types of users: unregistered user, registered user, administrator
